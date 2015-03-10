@@ -1,4 +1,42 @@
 body {
 	background-color:#dddddd;
 	font-family:arial;
+	margin:30px;
+	padding-top: 7em;
+}
+a:link {
+	text-decoration:none;
+}
+a:hover#me {
+	color:white;	
+}
+a:visited {
+	color: black;
+}
+div#header {
+	background-color:#000066;
+	color:white;
+	position:fixed;
+	top:-1em;
+	left:7em;
+	padding-left: 2em;
+	padding-top: 2em;
+	height:7em;
+	width:100em;
+	z-index:0;
+}
+div#icon {
+	background-color: white;
+	position:fixed;
+	top: -1em;
+	left: -1em;
+	padding-left: 2em;
+	padding-top: 2em;
+	height:7em;
+	width:7em;
+	z-index:1;
+}
+img#icon {
+	height:5em;
+	width:5em;
 }
