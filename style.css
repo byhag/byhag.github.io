@@ -1,6 +1,6 @@
 body {
 	background-color:#dddddd;
-	font-family:arial;
+	font-family:helvetica;
 	margin:30px;
 	padding-top: 7em;
 }
@@ -14,7 +14,7 @@ a:visited {
 	color: black;
 }
 div#header {
-	background-color:#000066;
+	background-color:#334376;
 	color:white;
 	position:fixed;
 	top:-1em;
@@ -24,9 +24,10 @@ div#header {
 	height:7em;
 	width:100em;
 	z-index:0;
+	font-size: 12pt;
 }
 div#icon {
-	background-color: white;
+	background-color: #334376;
 	position:fixed;
 	top: -1em;
 	left: -1em;
