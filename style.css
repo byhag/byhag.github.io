@@ -9,6 +9,11 @@
 }
 
 @font-face {
+	font-family: "Exo-Light";
+	src: url("Exo-Light.otf");
+}
+
+@font-face {
 	font-family: "Quicksand-Light";
 	src: url("Quicksand-Light.otf");
 }
@@ -29,29 +34,43 @@ a:visited {
 	color: black;
 }
 div#header {
-	background-color:#334376;
+	background-color:#445487;
 	color:white;
 	position:fixed;
 	top:-1em;
 	left:3.5em;
 	padding-left: 1.8em;
-	padding-top: 2.5em;
+	padding-top: 2.3em;
 	padding-bottom: -2em;
-	height:7em;
-	width:100em;
+	height:7.2em;
+	width:24.5em;
+	z-index:-1;
+	font-size: 12pt;
+}
+div#header2 {
+	background-color:#223265;
+	color:white;
+	position:fixed;
+	top:-1em;
+	left:3.5em;
+	padding-left: 1.8em;
+	padding-top: 2.3em;
+	padding-bottom: -2em;
+	height:7.2em;
+	width:75em;
 	z-index:-1;
 	font-size: 12pt;
 }
 div#title {
 	position:fixed;
-	font-family: "Exo-Thin";
-	text-align:right;
+	font-family: "Exo-Light";
 	background:transparent;
 	font-size: 50pt;
 	color:white;
+	z-index: 1;
 }
 div#icon {
-	background-color: #334376;
+	background-color: #445487;
 	position:fixed;
 	top: -1em;
 	left: -1em;
@@ -59,7 +78,20 @@ div#icon {
 	padding-top: 2em;
 	height:7.5em;
 	width:4em;
-	z-index:1;
+	z-index:0;
+}
+div#icon2 {
+	background-color: #445487;
+	position:fixed;
+	top: -1em;
+	padding-left: 2.1em;
+	padding-top: 1.22em;
+	height:1em;
+	width:1em;
+	z-index:-1;
+}
+#img2 {
+	height: 1.25em;
 }
 img#icon {
 	height:5em;
