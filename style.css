@@ -34,10 +34,10 @@ div#header {
 	position:fixed;
 	top:-1em;
 	left:3.5em;
-	padding-left: 2em;
-	padding-top: 3.3em;
-	padding-bottom: -1.7em;
-	height:5.7em;
+	padding-left: 1.8em;
+	padding-top: 2.5em;
+	padding-bottom: -2em;
+	height:7em;
 	width:100em;
 	z-index:-1;
 	font-size: 12pt;
@@ -47,7 +47,7 @@ div#title {
 	font-family: "Exo-Thin";
 	text-align:right;
 	background:transparent;
-	font-size: 38pt;
+	font-size: 50pt;
 	color:white;
 }
 div#icon {
@@ -57,7 +57,7 @@ div#icon {
 	left: -1em;
 	padding-left: 2em;
 	padding-top: 2em;
-	height:7em;
+	height:7.5em;
 	width:4em;
 	z-index:1;
 }
