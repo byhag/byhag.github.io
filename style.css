@@ -1,3 +1,18 @@
+@font-face {
+	font-family: "OrangeJuice";
+	src: url("orange juice 2.0.ttf");
+}
+
+@font-face {
+	font-family: "Exo-Thin";
+	src: url("Exo-Thin.otf");
+}
+
+@font-face {
+	font-family: "Quicksand-Light";
+	src: url("Quicksand-Light.otf");
+}
+
 body {
 	background-color:#dddddd;
 	font-family:helvetica;
@@ -18,13 +33,22 @@ div#header {
 	color:white;
 	position:fixed;
 	top:-1em;
-	left:7em;
+	left:3.5em;
 	padding-left: 2em;
-	padding-top: 2em;
-	height:7em;
+	padding-top: 3.3em;
+	padding-bottom: -1.7em;
+	height:5.7em;
 	width:100em;
-	z-index:0;
+	z-index:-1;
 	font-size: 12pt;
+}
+div#title {
+	position:fixed;
+	font-family: "Exo-Thin";
+	text-align:right;
+	background:transparent;
+	font-size: 38pt;
+	color:white;
 }
 div#icon {
 	background-color: #334376;
@@ -34,7 +58,7 @@ div#icon {
 	padding-left: 2em;
 	padding-top: 2em;
 	height:7em;
-	width:7em;
+	width:4em;
 	z-index:1;
 }
 img#icon {
