@@ -75,10 +75,15 @@ div#icon {
 	top: -1em;
 	left: -1em;
 	padding-left: 2em;
-	padding-top: 2em;
-	height:7.5em;
+	padding-top: 1.8em;
+	height:7.7em;
 	width:4em;
 	z-index:0;
+}
+#img {
+	height: auto;
+	width: auto;
+	max-height: 5.3em;
 }
 img#icon {
 	height:5em;
