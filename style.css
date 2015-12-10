@@ -43,7 +43,7 @@ div#header {
 	padding-top: 2.3em;
 	padding-bottom: -2em;
 	height:7.2em;
-	width:24.5em;
+	width:24em;
 	z-index:-1;
 	font-size: 12pt;
 }
@@ -79,19 +79,6 @@ div#icon {
 	height:7.5em;
 	width:4em;
 	z-index:0;
-}
-div#icon2 {
-	background-color: #445487;
-	position:fixed;
-	top: -1em;
-	padding-left: 2.1em;
-	padding-top: 1.22em;
-	height:1em;
-	width:1em;
-	z-index:-1;
-}
-#img2 {
-	height: 1.25em;
 }
 img#icon {
 	height:5em;
