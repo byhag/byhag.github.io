@@ -1,8 +1,3 @@
-@font-face {
-	font-family: "Exo-Light";
-	src: url("fonts/Exo-Light.otf");
-}
-
 body {
 	background-color:#dddddd;
 	font-family:helvetica;
@@ -48,7 +43,7 @@ div#header2 {
 }
 div#title {
 	position:fixed;
-	font-family: "Exo-Light";
+	font-family: "Exo";
 	font-size: 50pt;
 	color:white;
 	z-index: 1;
