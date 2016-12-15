@@ -7,10 +7,17 @@ body {
 }
 
 .footer {
-	background-color: #333;
+	background-color: #222;
 	height: 70px;	
 	color: #ccc;
 }
+
+/*.navbar-nav > li > a, .navbar-form, .navbar-collapse {
+    padding-top:30px !important; padding-bottom:0px !important;
+    height: 80px;
+}
+.navbar-brand {padding-top: 10px !important;}
+.navbar {min-height:50px !important;}*/
 
 /*a:link {
 	text-decoration:none;
