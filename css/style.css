@@ -1,0 +1,97 @@
+@font-face {
+	font-family: "OrangeJuice";
+	src: url("orange juice 2.0.ttf");
+}
+
+@font-face {
+	font-family: "Exo-Thin";
+	src: url("fonts/Exo-Thin.otf");
+}
+
+@font-face {
+	font-family: "Exo-Light";
+	src: url("fonts/Exo-Light.otf");
+}
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Anton);
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+
+body {
+	background-image: linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.5)) , url(../images/autumn-1678028_1920.jpg) !important;
+	background-attachment: fixed;
+	background-size: cover;
+	margin:30px;
+	font-family: "Open Sans" !important;
+}
+
+.footer {
+	background-color: #333;
+	height: 70px;	
+	color: #ccc;
+}
+
+/*a:link {
+	text-decoration:none;
+}
+a:hover#me {
+	color:white;	
+}
+a:visited {
+	color: black;
+}
+div#header {
+	background-color:#4466ac;
+	color:white;
+	position:fixed;
+	top:-1em;
+	left:3.5em;
+	padding-left: 1.8em;
+	padding-top: 2.3em;
+	padding-bottom: -2em;
+	height:7.2em;
+	width:24em;
+	z-index:1;
+	font-size: 12pt;
+}
+div#header2 {
+	background-color:#000073;
+	color:white;
+	position:fixed;
+	top:-1em;
+	left:3.5em;
+	padding-left: 1.8em;
+	padding-top: 2.3em;
+	padding-bottom: -2em;
+	height:7.2em;
+	width:75em;
+	z-index:0;
+	font-size: 12pt;
+}
+div#title {
+	position:fixed;
+	font-family: "Exo-Light";
+	font-size: 50pt;
+	color:white;
+	z-index: 1;
+}
+div#icon {
+	background-color: #4466ac;
+	position:fixed;
+	top: -1em;
+	left: -1em;
+	padding-left: 2em;
+	padding-top: 1.8em;
+	height:7.7em;
+	width:4em;
+	z-index:1;
+}
+#img {
+	height: auto;
+	width: auto;
+	max-height: 5.3em;
+}
+img#icon {
+	height:5em;
+	width:5em;
+}*/

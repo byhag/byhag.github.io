@@ -1410,7 +1410,7 @@ a.bg-danger:focus {
 .page-header {
   padding-bottom: 9px;
   margin: 40px 0 20px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #333;
 }
 ul,
 ol {
@@ -3057,20 +3057,20 @@ fieldset[disabled] a.btn {
   pointer-events: none;
 }
 .btn-default {
-  color: #333;
-  background-color: #fff;
-  border-color: #ccc;
+  color: #ccc;
+  background-color: #333;
+  border-color: #333;
 }
 .btn-default:focus,
 .btn-default.focus {
   color: #333;
-  background-color: #e6e6e6;
+  background-color: #8c8c8c;
   border-color: #8c8c8c;
 }
 .btn-default:hover {
   color: #333;
-  background-color: #e6e6e6;
-  border-color: #adadad;
+  background-color: #8c8c8c;
+  border-color: #8c8c8c;
 }
 .btn-default:active,
 .btn-default.active,
@@ -4274,7 +4274,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-brand {
   float: left;
   height: 50px;
-  padding: 15px 15px;
+  padding: 0px 15px 0px 15px;
   font-size: 18px;
   line-height: 20px;
 }
