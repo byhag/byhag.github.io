@@ -3033,7 +3033,7 @@ select[multiple].input-lg {
 .btn:hover,
 .btn:focus,
 .btn.focus {
-  color: #333;
+  color: #eee;
   text-decoration: none;
 }
 .btn:active,
@@ -3068,7 +3068,7 @@ fieldset[disabled] a.btn {
   border-color: #8c8c8c;
 }
 .btn-default:hover {
-  color: #333;
+  color: #eee;
   background-color: #8c8c8c;
   border-color: #8c8c8c;
 }

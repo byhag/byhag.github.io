@@ -1,15 +1,70 @@
+
+
+
 body {
-	background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)) , url(../images/autumn-1678028_1920.jpg) !important;
+	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)) , url(../images/autumn-1678028_1920.jpg) !important;
 	background-attachment: fixed;
 	background-size: cover;
-	margin:30px;
 	font-family: "Open Sans" !important;
+	font-size: 12pt !important;
+	width: 100% !important;
+	padding-top: 50px;
 }
 
 .footer {
 	background-color: #222;
 	height: 70px;	
 	color: #ccc;
+}
+
+.content {
+	padding: 50px !important;
+}
+
+@media (max-width:800px) {
+    #carousel-example-generic {
+        display:none !important;
+    }
+
+	.content {
+		padding: 15px !important;
+	}
+
+	.copyright {
+		font-size: 8pt !important;
+	}
+}
+
+.carousel {
+	height: 500px !important;
+	width: 100% !important;
+}
+
+.carousel-inner {
+	height: 100% !important;
+	width: 100% !important;
+}
+
+.bottom-nav-btn {
+	padding: 0 !important;
+}
+
+.bottom-nav-btn > .btn-group > .btn:first-child:not(:last-child) {
+	border-top-left-radius: 0 !important;
+	border-right: solid 1px #222;
+	padding: 20px;
+}
+
+.bottom-nav-btn > .btn-group > .btn:last-child:not(:first-child) {
+  	border-top-right-radius: 0 !important;
+	border-left: solid 1px #222;
+  	padding: 20px;
+}
+
+.navbar {
+	-webkit-box-shadow: 0px 10px 26px 3px rgba(0,0,0,0.5);
+	-moz-box-shadow: 0px 10px 26px 3px rgba(0,0,0,0.5);
+	box-shadow: 0px 10px 26px 3px rgba(0,0,0,0.5);
 }
 
 /*.navbar-nav > li > a, .navbar-form, .navbar-collapse {
