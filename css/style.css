@@ -34,6 +34,10 @@ body {
 	.copyright {
 		font-size: 8pt !important;
 	}
+
+	html {
+		margin: -20px !important;
+	}
 }
 
 .carousel {
