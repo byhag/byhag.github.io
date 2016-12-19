@@ -6,13 +6,20 @@ html {
 }
 
 body {
-	background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)) , url(../images/autumn-1678028_1920.jpg) !important;
+	background-image: linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1)) , url(../images/milky-way.jpg) !important;
 	background-attachment: fixed;
 	background-size: cover;
 	font-family: "Open Sans" !important;
 	font-size: 12pt !important;
 	width: 100% !important;
 	padding-top: 50px;
+}
+
+.article-header {
+	padding: 30px;
+	color: #eee;
+	background: linear-gradient(rgba(238,238,238,0), rgba(238,238,238,0));
+	margin: 0;
 }
 
 .footer {
@@ -37,12 +44,41 @@ body {
 	.content > .col-xs-12 {
 		padding: 30px !important;
 	}
+
+	.header-img {
+		padding: 30px;
+		margin: -30px -30px 0px -30px;
+	}
 }
 
 @media (max-width:800px) {
     #carousel-example-generic {
         display:none !important;
     }
+
+	.navbar-nav.navbar-collapse {
+        margin: 0;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+	body {
+		background-image: none !important;
+		background-color: #eee !important;
+	}
+
+	.article-header {
+		padding: 15px;
+		color: #333;
+	}
+
+	.bottom-nav-btn > .btn-group > .btn:first-child:not(:last-child) {
+	border-top-left-radius: 5px !important;
+	}
+
+	.bottom-nav-btn > .btn-group > .btn:last-child:not(:first-child) {
+		border-top-right-radius: 5px !important;
+	}
 
 	.content {
 		margin: 0px 15px !important;
@@ -72,15 +108,27 @@ body {
 }
 
 .bottom-nav-btn > .btn-group > .btn:first-child:not(:last-child) {
-	border-top-left-radius: 0 !important;
+	border-top-left-radius: 0 ;
 	border-right: solid 1px #222;
 	padding: 20px;
 }
 
 .bottom-nav-btn > .btn-group > .btn:last-child:not(:first-child) {
-  	border-top-right-radius: 0 !important;
-	border-left: solid 1px #222;
+  	border-top-right-radius: 0 ;
+	border-left: solid 1px #555;
   	padding: 20px;
+}
+
+.bottom-nav-btn .btn-group > .btn > .fa {
+	color: #80D234 !important;
+}
+
+.bottom-nav-btn .btn-group > .btn:hover > .fa {
+	color: #80D234 !important;
+}
+
+.bottom-nav-btn .btn-group > .btn:active > .fa {
+	color: #447314 !important;
 }
 
 .navbar {
@@ -95,68 +143,3 @@ body {
 }
 .navbar-brand {padding-top: 10px !important;}
 .navbar {min-height:50px !important;}*/
-
-/*a:link {
-	text-decoration:none;
-}
-a:hover#me {
-	color:white;	
-}
-a:visited {
-	color: black;
-}
-div#header {
-	background-color:#4466ac;
-	color:white;
-	position:fixed;
-	top:-1em;
-	left:3.5em;
-	padding-left: 1.8em;
-	padding-top: 2.3em;
-	padding-bottom: -2em;
-	height:7.2em;
-	width:24em;
-	z-index:1;
-	font-size: 12pt;
-}
-div#header2 {
-	background-color:#000073;
-	color:white;
-	position:fixed;
-	top:-1em;
-	left:3.5em;
-	padding-left: 1.8em;
-	padding-top: 2.3em;
-	padding-bottom: -2em;
-	height:7.2em;
-	width:75em;
-	z-index:0;
-	font-size: 12pt;
-}
-div#title {
-	position:fixed;
-	font-family: "Exo-Light";
-	font-size: 50pt;
-	color:white;
-	z-index: 1;
-}
-div#icon {
-	background-color: #4466ac;
-	position:fixed;
-	top: -1em;
-	left: -1em;
-	padding-left: 2em;
-	padding-top: 1.8em;
-	height:7.7em;
-	width:4em;
-	z-index:1;
-}
-#img {
-	height: auto;
-	width: auto;
-	max-height: 5.3em;
-}
-img#icon {
-	height:5em;
-	width:5em;
-}*/
