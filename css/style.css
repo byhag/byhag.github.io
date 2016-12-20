@@ -18,7 +18,7 @@ body {
 .article-header {
 	padding: 30px;
 	color: #eee;
-	background: linear-gradient(rgba(238,238,238,0), rgba(238,238,238,0));
+	background: linear-gradient(rgba(238,238,238,0), rgba(238,238,238,0.2));
 	margin: 0;
 }
 
@@ -103,6 +103,10 @@ body {
 	width: 100% !important;
 }
 
+.btn > .fa-search {
+	padding: 3px;
+}
+
 .bottom-nav-btn {
 	padding: 0 !important;
 }
@@ -135,6 +139,10 @@ body {
 	-webkit-box-shadow: 0px 10px 26px 3px rgba(0,0,0,0.5);
 	-moz-box-shadow: 0px 10px 26px 3px rgba(0,0,0,0.5);
 	box-shadow: 0px 10px 26px 3px rgba(0,0,0,0.5);
+}
+
+.navbar-nav > li > a:hover {
+	background-color: black !important;
 }
 
 /*.navbar-nav > li > a, .navbar-form, .navbar-collapse {
