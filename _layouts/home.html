@@ -3,15 +3,17 @@ layout: default
 ---
 
 <div class="home">
-
+  <div class="content">
   <h1 class="page-heading">Posts</h1>
   
   {{ content }}
 
+  <h2><a class="btn btn-lg btn-default" href="/bootstrap-only-site/home.html">Bootstrap only site</a></h2>
+
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.static_files %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="post-meta">{{ post.name }}</span>
 
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
@@ -21,5 +23,5 @@ layout: default
   </ul>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-
+  </div>
 </div>
