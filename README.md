@@ -1,2 +1,1 @@
-# byhag.github.io
-Personal Webpage
+# rootedreasoning
