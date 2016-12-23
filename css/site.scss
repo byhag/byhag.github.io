@@ -1,0 +1,92 @@
+---
+# YAML Front Matter
+---
+
+@import 'bootstrap';
+
+// Bootstrap overrides
+.navbar-static-top {
+    margin-bottom: 0;
+
+    a {
+        color: #eee;
+        &:hover,
+        &:focus {
+            color: #fff;
+            background-color: rgba(255,255,255,.1) !important;
+        }
+    }
+
+    .dropdown-menu {
+        background-color: rgba(255,255,255,.1);
+        color: #eee;
+        border: none;
+        border-top-right-radius: 5px;
+        a {
+            color: #eee;
+            &:hover,
+            &:focus {
+                color: #fff;
+                background-color: rgba(255,255,255,.1) !important;
+            }
+        }
+    }
+
+    input {
+        border-color: #eee;
+    }
+
+    .input-group-btn > button {
+        color: #eee;
+        border-color: #eee;
+        background-color: transparent;
+        padding: 6px 20px 8px 20px;
+        &:hover,
+        &:focus {
+            color: #fff;
+            background-color: rgba(255,255,255,.1);
+        }
+    }
+}
+
+.navbar-brand {
+    padding: 10px $navbar-padding-horizontal 0px $navbar-padding-horizontal;
+}
+
+.footer {
+    height: 70px;
+    background-color: $gray-darker;
+    color: #eee;
+}
+
+.page-header {
+    margin-left: -15px;
+    padding-left: 15px;
+}
+
+header {
+    background-attachment: fixed;
+    box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
+}
+
+// ----
+
+.home-header {
+	padding: 10% 15% 15% 15%;
+	color: #eee;
+	height: 100vh;
+	margin: 0;
+    > .page-header {
+        border-color: $gray-lighter;
+    }
+}
+
+.content {
+    padding: 50px 15% 50px 15%;
+    min-height: 100vh;
+    overflow: auto;
+}
+
+.article {
+    padding: 50px 5% 50px 0%;
+}
