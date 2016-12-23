@@ -4,21 +4,25 @@
 
 @import 'bootstrap';
 
+$faded-gray: #333;
+
 // Bootstrap overrides
 .navbar-static-top {
     margin-bottom: 0;
+    background-color: #222;
+    border: none;
 
     a {
         color: #eee;
         &:hover,
         &:focus {
             color: #fff;
-            background-color: rgba(255,255,255,.1) !important;
+            background-color: $faded-gray !important;
         }
     }
 
     .dropdown-menu {
-        background-color: rgba(255,255,255,.1);
+        background-color: $faded-gray;
         color: #eee;
         border: none;
         border-top-right-radius: 5px;
@@ -27,7 +31,7 @@
             &:hover,
             &:focus {
                 color: #fff;
-                background-color: rgba(255,255,255,.1) !important;
+                background-color: #444 !important;
             }
         }
     }
@@ -40,11 +44,11 @@
         color: #eee;
         border-color: #eee;
         background-color: transparent;
-        padding: 6px 20px 8px 20px;
+        padding: 6px 20px 7px 20px;
         &:hover,
         &:focus {
             color: #fff;
-            background-color: rgba(255,255,255,.1);
+            background-color: $faded-gray;
         }
     }
 }
@@ -66,6 +70,7 @@
 
 header {
     background-attachment: fixed;
+    background-size: cover;
     box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
 }
 
@@ -73,8 +78,18 @@ header {
 
 .home-header {
 	padding: 10% 15% 15% 15%;
-	color: #eee;
+	color: #fff;
 	height: 100vh;
+	margin: 0;
+    > .page-header {
+        border-color: $gray-lighter;
+    }
+}
+
+.article-header {
+	padding: 5% 20% 17% 20%;
+	color: #eee;
+	height: 20vh;
 	margin: 0;
     > .page-header {
         border-color: $gray-lighter;
@@ -88,5 +103,5 @@ header {
 }
 
 .article {
-    padding: 50px 5% 50px 0%;
+    padding: 0px 10% 50px 10%;
 }
