@@ -2,6 +2,7 @@
 layout: article
 title: "Introduction: God"
 subtitle: "God's Existence and Nature"
+module: God
 bgimage: milky-way.jpg
 permalink: /God/introduction
 ---

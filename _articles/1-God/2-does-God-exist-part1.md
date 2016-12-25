@@ -2,6 +2,8 @@
 layout: article
 title: "Does God exist?"
 subtitle: "Part 1"
+module: God
+bgimage: milky-way.jpg
 permalink: /God/does-God-exist-part1
 ---
 

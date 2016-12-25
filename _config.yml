@@ -33,3 +33,6 @@ exclude:
   - Gemfile.lock
 sass:
   style: compressed
+collections:
+  articles:
+    output: true
