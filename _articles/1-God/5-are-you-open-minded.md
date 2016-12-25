@@ -2,6 +2,7 @@
 title: "Are you open-minded to the evidence?"
 subtitle: "Supplementary article"
 bgimage: "forest-path.jpg"
+layout: article
 module: God
 permalink: /God/are-you-open-minded
 ---

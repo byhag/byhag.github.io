@@ -2,6 +2,7 @@
 title: "What is God like?"
 subtitle: "Part 1"
 bgimage: milky-way.jpg
+layout: article
 module: God
 permalink: /God/what-is-God-like-part1
 ---

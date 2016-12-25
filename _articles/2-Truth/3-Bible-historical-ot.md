@@ -2,6 +2,7 @@
 title: "Is the Bible historical?"
 subtitle: "Old Testament"
 bgimage: study.jpg
+layout: article
 module: Truth
 permalink: /Truth/Bible-historical-ot
 ---
