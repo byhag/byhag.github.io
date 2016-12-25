@@ -53,25 +53,98 @@ $faded-gray: #333;
     }
 }
 
+.navbar-fixed-top {
+    margin-bottom: 0;
+    background-color: #222;
+    border: none;
+
+    -webkit-box-shadow: 0px 10px 26px 3px rgba(0,0,0,0.5);
+	-moz-box-shadow: 0px 10px 26px 3px rgba(0,0,0,0.5);
+	box-shadow: 0px 10px 26px 3px rgba(0,0,0,0.5);
+
+    a {
+        color: #eee;
+        &:hover,
+        &:focus {
+            color: #fff;
+            background-color: $faded-gray !important;
+        }
+    }
+
+    .dropdown-menu {
+        background-color: $faded-gray;
+        color: #eee;
+        border: none;
+        border-top-right-radius: 5px;
+        a {
+            color: #eee;
+            &:hover,
+            &:focus {
+                color: #fff;
+                background-color: #444 !important;
+            }
+        }
+    }
+
+    input {
+        margin-top: 3px;
+        height: 35px;
+        border-color: #eee;
+    }
+
+    .input-group-btn > button {
+        color: #eee;
+        border-color: #eee;
+        background-color: transparent;
+        margin-top: 3px;
+        padding: 4px 20px 4px 20px;
+        &:hover,
+        &:focus {
+            color: #fff;
+            background-color: $faded-gray;
+        }
+    }
+}
+
 .navbar-brand {
-    padding: 10px $navbar-padding-horizontal 0px $navbar-padding-horizontal;
+    padding: 0px $navbar-padding-horizontal 0px $navbar-padding-horizontal;
+    @media (max-width: $screen-sm-max) {
+        padding-top: 5px;
+    }
 }
 
-.footer {
-    height: 70px;
-    background-color: $gray-darker;
-    color: #eee;
-}
+.navbar-toggle .search {
+  position: relative;
+  float: right;
+  margin-right: $navbar-padding-horizontal;
+  padding: 9px 10px;
+  @include navbar-vertical-align(34px);
+  background-color: transparent;
+  background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
+  border: 1px solid transparent;
+  border-radius: $border-radius-base;
 
-.page-header {
-    margin-left: -15px;
-    padding-left: 15px;
+  // We remove the `outline` here, but later compensate by attaching `:hover`
+  // styles to `:focus`.
+  &:focus {
+    outline: 0;
+  }
+
+  @media (min-width: $grid-float-breakpoint) {
+    display: none;
+  }
 }
 
 header {
     background-attachment: fixed;
     background-size: cover;
     box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
+}
+
+html {
+    @media (max-height: $screen-phone) {
+        $font-size-base: 11pt;
+    }
 }
 
 // ----
@@ -81,6 +154,24 @@ header {
 	color: #fff;
 	height: 100vh;
 	margin: 0;
+    @media (max-width: $screen-sm-max) {
+            padding-top: 20%;
+        }
+
+    img {
+        margin-left: -10px;
+        width: 50%;
+        @media (max-width: $screen-sm-max) {
+            width: 100%;
+        }
+    }
+    h2 {
+        padding-left: 40px;
+        @media (max-width: $screen-sm-max) {
+            padding-left: 20px;
+            font-size: 20pt;
+        }
+    }
     > .page-header {
         border-color: $gray-lighter;
     }
@@ -97,11 +188,65 @@ header {
 }
 
 .content {
-    padding: 50px 15% 50px 15%;
-    min-height: 100vh;
+    padding: 70px 15% 50px 15%;
+    min-height: 90vh;
     overflow: auto;
+    @media (max-width: $screen-sm-max) {
+        padding: 50px 5% 50px 5%;
+    }
 }
 
 .article {
     padding: 0px 10% 50px 10%;
+
+    @media (max-width: $screen-tablet) {
+        padding: 0px 5% 30px 5%;
+    }
+    > .page-header {
+        > h1 {
+            @media (max-width: $screen-sm-max) {
+                font-size: 25pt;
+            }
+        }
+    }
+    h2 {
+            @media (max-width: $screen-sm-max) {
+                font-size: 20pt;
+            }
+        }
+}
+
+.facebook {
+    background-color:#3B5998; 
+    padding: 3px 4px 0px 8px;
+    margin: 0px 0px 0px 4px;
+    border: transparent; 
+    color:white; 
+    border-radius: 3px;
+    line-height: 1;
+    position: relative;
+    top: 2px;
+    right: 2px;
+    > i {
+        position: relative;
+        top: 1px;
+    }
+}
+
+.footer {
+    height: 10vh;
+    padding: 15px 20%;
+    background-color: $gray-darker;
+    color: #eee;
+    @media (max-width: $screen-sm-max) {
+        padding: 10px 20% 10px 8%;
+    }
+}
+
+.copyright {
+    line-height: 1;
+    padding-top: 10px;
+    @media (max-width: $screen-sm-max) {
+        font-size: 10pt;
+    }
 }

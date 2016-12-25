@@ -13,7 +13,4 @@ $(document).ready( function() {
     //     console.log(screen);
     //     $('.content').css('padding', 20 + '%');
     // });
-    if ($('.navbar-static-top')) {
-        $('.navbar-fixed-top').hide();
-    }
 });
