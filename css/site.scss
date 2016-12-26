@@ -7,6 +7,7 @@
 $faded-gray: #333;
 $rr-green-light: #81D135;
 $rr-green-dark: #437414;
+$rr-brown: #8A572E;
 
 // Bootstrap overrides
 .navbar-static-top {
@@ -109,7 +110,7 @@ $rr-green-dark: #437414;
 }
 
 .navbar-brand {
-    padding: 0px $navbar-padding-horizontal 0px $navbar-padding-horizontal;
+    padding: 8px $navbar-padding-horizontal 0px $navbar-padding-horizontal;
     @media (max-width: $screen-sm-max) {
         padding-top: 5px;
     }
@@ -137,28 +138,32 @@ $rr-green-dark: #437414;
   }
 }
 
-header {
-    background-attachment: fixed;
-    background-size: cover;
-    box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
-}
-
 html {
     @media (max-height: $screen-phone) {
         $font-size-base: 11pt;
     }
 }
 
+header {
+    background-attachment: fixed;
+    background-size: cover;
+    box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
+}
+
+h1, h2, h3 {
+    font-family: "Roboto Slab";
+}
+
 // ----
 
 .home-header {
-	padding: 10% 15% 15% 15%;
+	padding: 15% 15% 15% 15%;
 	color: #fff;
 	height: 100vh;
 	margin: 0;
     @media (max-width: $screen-sm-max) {
-            padding-top: 20%;
-        }
+        padding-top: 20%;
+    }
 
     img {
         margin-left: -10px;
@@ -180,16 +185,14 @@ html {
 }
 
 .article-header {
-	padding: 5% 20% 17% 20%;
+	padding: 5% 20% 5% 20%;
 	color: #eee;
-	height: 20vh;
-    overflow: auto;
 	margin: 0;
     > .page-header {
         border-color: $gray-lighter;
     }
     @media (max-width: $screen-sm-max) {
-        height:50vh;
+        height: 50vh;
     }
 }
 
@@ -216,10 +219,10 @@ html {
         }
     }
     h2 {
-            @media (max-width: $screen-sm-max) {
-                font-size: 20pt;
-            }
+        @media (max-width: $screen-sm-max) {
+            font-size: 20pt;
         }
+    }
 }
 
 .facebook {
@@ -254,5 +257,24 @@ html {
     padding-top: 10px;
     @media (max-width: $screen-sm-max) {
         font-size: 10pt;
+    }
+}
+
+.down-arrow {
+    color: #eee;
+    width: 5%;
+    text-align: center;
+    padding: 3px 3px 1px;
+    border-radius: 3px;
+    background: linear-gradient($faded-gray, $faded-gray);
+    position: relative;
+    left: 47%;
+    top: 70%;
+}
+
+.rtBibleRef {
+    text-decoration: underline;
+    &:hover {
+        text-decoration: none;
     }
 }
