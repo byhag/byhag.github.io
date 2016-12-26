@@ -183,14 +183,14 @@ html {
 	padding: 5% 20% 17% 20%;
 	color: #eee;
 	height: 20vh;
-    overflow: auto
+    overflow: auto;
 	margin: 0;
     > .page-header {
         border-color: $gray-lighter;
     }
-@media (max-width: $screen-sm-max) {
-           height:50vh;
-        }
+//@media (max-width: $screen-sm-max) {
+           //height:50vh;
+       // }
 }
 
 .content {
