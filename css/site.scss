@@ -188,9 +188,9 @@ html {
     > .page-header {
         border-color: $gray-lighter;
     }
-//@media (max-width: $screen-sm-max) {
-           //height:50vh;
-       // }
+    @media (max-width: $screen-sm-max) {
+        height:50vh;
+    }
 }
 
 .content {
