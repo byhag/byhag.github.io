@@ -42,7 +42,7 @@ We cannot prove the entire nature of God by these arguments, at least not the en
 There is no way to prove to you that God exists. God himself wants to be accepted in faith (Hebrews 11:6). But faith is not a leap in the dark - it is a leap into the light and into a room where a large number of people await for you with open arms.
  
 #### References
-1. https://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html
-2. http://biologos.org/common-questions/gods-relationship-to-creation/fine-tuning
-3. http://www.inquiriesjournal.com/articles/1010/intelligent-design-in-the-complexity-of-the-human-body
-4. http://www.reasonablefaith.org/popular-articles-does-god-exist
+1. [https://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html](https://www.dartmouth.edu/~matc/MathDrama/reading/Wigner.html)
+2. [http://biologos.org/common-questions/gods-relationship-to-creation/fine-tuning](http://biologos.org/common-questions/gods-relationship-to-creation/fine-tuning)
+3. [http://www.inquiriesjournal.com/articles/1010/intelligent-design-in-the-complexity-of-the-human-body](http://www.inquiriesjournal.com/articles/1010/intelligent-design-in-the-complexity-of-the-human-body)
+4. [http://www.reasonablefaith.org/popular-articles-does-god-exist](http://www.reasonablefaith.org/popular-articles-does-god-exist)

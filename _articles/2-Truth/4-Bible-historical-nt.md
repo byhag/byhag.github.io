@@ -39,6 +39,6 @@ If the Bible was written by men outside of the historical period that it was cla
 4. Free, Joseph P. and Howard F. Vos (1992), Archaeology and Bible History (Grand Rapids, MI: Zondervan). Pg. 269
 5. McClintock, John and James Strong (1968 reprint), “Cyprus,” Cyclopaedia of Biblical, Theological, and Ecclesiastical Literature (Grand Rapids, MI: Baker). 2:627
 6. Hughes, J.J. (1986), “Paulus, Sergius,” International Standard Bible Encyclopedia, ed. Geoffrey W. Bromiley (Grand Rapids, MI: Eerdmans), revised edition. 2. 728
-7. http://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-bethesda-pool-site-of-one-of-jesus%E2%80%99-miracles/
+7. [http://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-bethesda-pool-site-of-one-of-jesus%E2%80%99-miracles/](http://www.biblicalarchaeology.org/daily/biblical-sites-places/jerusalem/the-bethesda-pool-site-of-one-of-jesus%E2%80%99-miracles/)
 8. McRay, John (1991), Archaeology and the New Testament (Grand Rapids, MI: Baker). Pg. 299
-9. http://www.bethinking.org/is-the-bible-reliable/archaeology-and-the-historical-reliability-of-the-new-testament
+9. [http://www.bethinking.org/is-the-bible-reliable/archaeology-and-the-historical-reliability-of-the-new-testament](http://www.bethinking.org/is-the-bible-reliable/archaeology-and-the-historical-reliability-of-the-new-testament)

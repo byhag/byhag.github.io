@@ -38,8 +38,8 @@ If we consider that the Bible is not a historic document, but a book full of fab
 The evidence points to the statement that the Old Testament is a historic document.
  
 ### References
-1. http://www.huffingtonpost.com/2014/06/04/americans-bible-word-of-god_n_5446979.html
-2. http://cojs.org/six_biblical_signatures-_tsvi_schneider-_bar_17-04-_jul-aug_1991/
-3. http://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/50-people-in-the-bible-confirmed-archaeologically/
-4. http://apologeticspress.org/apPubPage.aspx?pub=1&issue=551
-5. http://apologeticspress.org/apcontent.aspx?category=13&article=888
+1. [http://www.huffingtonpost.com/2014/06/04/americans-bible-word-of-god_n_5446979.html](http://www.huffingtonpost.com/2014/06/04/americans-bible-word-of-god_n_5446979.html)
+2. [http://cojs.org/six_biblical_signatures-_tsvi_schneider-_bar_17-04-_jul-aug_1991/](http://cojs.org/six_biblical_signatures-_tsvi_schneider-_bar_17-04-_jul-aug_1991/)
+3. [http://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/50-people-in-the-bible-confirmed-archaeologically/](http://www.biblicalarchaeology.org/daily/people-cultures-in-the-bible/people-in-the-bible/50-people-in-the-bible-confirmed-archaeologically/)
+4. [http://apologeticspress.org/apPubPage.aspx?pub=1&issue=551](http://apologeticspress.org/apPubPage.aspx?pub=1&issue=551)
+5. [http://apologeticspress.org/apcontent.aspx?category=13&article=888](http://apologeticspress.org/apcontent.aspx?category=13&article=888)
