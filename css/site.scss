@@ -138,9 +138,11 @@ html {
 
 header {
     background-attachment: fixed;
-    -webkit-background-size: cover;
     background-size: cover;
     box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
+    @media (max-width: $screen-sm-max) {
+        background-attachment: scroll;
+    }
 }
 
 h1, h2, h3 {
