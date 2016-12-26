@@ -112,34 +112,26 @@ $rr-brown: #8A572E;
 .navbar-brand {
     padding: 8px $navbar-padding-horizontal 0px $navbar-padding-horizontal;
     @media (max-width: $screen-sm-max) {
-        padding-top: 5px;
+        padding-top: 10px;
     }
 }
 
-.navbar-toggle .search {
-  position: relative;
-  float: right;
-  margin-right: $navbar-padding-horizontal;
-  padding: 9px 10px;
-  @include navbar-vertical-align(34px);
-  background-color: transparent;
-  background-image: none; // Reset unusual Firefox-on-Android default style; see https://github.com/necolas/normalize.css/issues/214
-  border: 1px solid transparent;
-  border-radius: $border-radius-base;
+.search {
+    padding: 4px 13px;
+}
 
-  // We remove the `outline` here, but later compensate by attaching `:hover`
-  // styles to `:focus`.
-  &:focus {
-    outline: 0;
-  }
-
-  @media (min-width: $grid-float-breakpoint) {
-    display: none;
-  }
+.btn-primary, .btn-default {
+    border-color: #333;
+    &:hover {
+        background-color: #444;
+    }
+    @media (max-width: $screen-sm-max) {
+        font-size: 13pt;
+    }
 }
 
 html {
-    @media (max-height: $screen-phone) {
+    @media (max-width: $screen-phone) {
         $font-size-base: 11pt;
     }
 }
@@ -162,7 +154,8 @@ h1, h2, h3 {
 	height: 100vh;
 	margin: 0;
     @media (max-width: $screen-sm-max) {
-        padding-top: 20%;
+        padding-top: 50%;
+        padding-bottom: 30%;
     }
 
     img {
@@ -173,9 +166,9 @@ h1, h2, h3 {
         }
     }
     h2 {
-        padding-left: 40px;
+        padding-left: 30px;
         @media (max-width: $screen-sm-max) {
-            padding-left: 20px;
+            padding-left: 10px;
             font-size: 20pt;
         }
     }
@@ -192,7 +185,8 @@ h1, h2, h3 {
         border-color: $gray-lighter;
     }
     @media (max-width: $screen-sm-max) {
-        height: 50vh;
+        padding: 20% 10% 10% 10%;
+        
     }
 }
 
@@ -209,7 +203,7 @@ h1, h2, h3 {
     padding: 0px 10% 50px 10%;
 
     @media (max-width: $screen-tablet) {
-        padding: 0px 5% 30px 5%;
+        padding: 0px 3% 30px 3%;
     }
     > .page-header {
         > h1 {
@@ -248,8 +242,18 @@ h1, h2, h3 {
     background-color: $gray-darker;
     color: #eee;
     @media (max-width: $screen-sm-max) {
-        padding: 10px 20% 10px 8%;
+        padding: 10px 15% 10px 10%;
     }
+}
+
+.background {
+    background-attachment: fixed;
+    position: absolute;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
+    z-index: -10;
 }
 
 .copyright {
@@ -262,7 +266,7 @@ h1, h2, h3 {
 
 .down-arrow {
     color: #eee;
-    width: 5%;
+    width: 50px;
     text-align: center;
     padding: 3px 3px 1px;
     border-radius: 3px;
@@ -270,6 +274,9 @@ h1, h2, h3 {
     position: relative;
     left: 47%;
     top: 70%;
+    @media (max-width: $screen-sm-max) {
+        left: 40%;
+    }
 }
 
 .rtBibleRef {
