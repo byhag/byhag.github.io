@@ -2,9 +2,9 @@
 layout: article
 title: "What is God like?"
 subtitle: "Part 2"
-bgimage: milky-way.jpg
+bgimage: sky.jpg
 module: "God and Man"
-peramlink: /God-and-Man/what-is-God-like-part2
+permalink: /God-and-Man/what-is-God-like-part2
 ---
 
 “In the beginning God created the heavens and the earth” (Genesis 1:1). Thus begins the biblical understanding of God. This is not a formal argument for God’s existence. The Bible assumes that God’s existence is a given, and the rest of creation owes its existence to the power and sovereignty of God. “For since the creation of the world His invisible attributes, His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse” (Rom. 1:20).
