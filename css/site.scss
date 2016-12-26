@@ -140,6 +140,10 @@ blockquote {
     font-family: "Roboto Slab";
 }
 
+ol {
+    word-wrap: break-word;
+}
+
 header {
     background-attachment: fixed;
     background-size: cover;
