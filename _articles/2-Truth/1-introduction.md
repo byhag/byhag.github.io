@@ -10,3 +10,9 @@ permalink: /Truth/Introduction
 If the evidence of God’s existence was all that we had, one might be very puzzled that this almighty and purposeful God would leave us with no clue of what He desired. This module examines the question of truth and the evidence of God’s revealed words to humanity. It also addresses the question regarding our possession of an accurate record of those words.
  
 Anyone who has talked with Christians has experienced a common foundation from a book called the Bible which establishes ideas and presents what they call “truth”. This section walks through the evidence of why Christians call the Bible “truth” today.
+
+{% for article in site.articles %}
+{% if article.module == "Truth" %}
+- [{{article.title}} - {{article.subtitle}}]({{article.permalink}})
+{% endif %}
+{% endfor %}
