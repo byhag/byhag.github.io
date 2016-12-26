@@ -1,7 +1,7 @@
 ---
 title: "Introduction: Truth"
 subtitle: "God's Words to Mankind"
-bgimage: forest-path.png
+bgimage: forest-path.jpg
 layout: article
 module: Truth
 permalink: /Truth/Introduction
