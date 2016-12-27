@@ -18,10 +18,8 @@ First, the sheer number of manuscripts attests to the credibility of the Bible. 
  
 When we consider the New Testament, however, we find the manuscripts tell a different story. There are about 5600 Greek manuscripts (the original language of the New Testament) and the earliest recorded is within 100 years of the original document. [2] There are a total of 230 manuscript portions that pre-date 600 AD, including 192 Greek New Testament manuscripts, 5 Greek lectionaries containing scripture, and 33 translations of the Greek New Testament. [2] If we trust the authenticity of the works of writers such as Plato and Aristotle, then we should trust the authenticity of the New Testament.
  
-Table 1: Manuscripts of documents from antiquity
-
-​// TODO
-​
+_**Table 1:** Manuscripts of documents from antiquity_
+​{% include manuscript-table.html %}
 ### The early manuscripts
 One might think, “well, there are a great number of early manuscripts, but how significant are those manuscripts to the reconstruction of the New Testament?” It is true, some of the manuscripts are little more than small scraps of papyrus, worn by age and elements. However, there are several early manuscripts that alone comprise most or all of the New Testament. These are some of the most important witnesses to the New Testament account [3]:
  

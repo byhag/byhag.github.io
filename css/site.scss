@@ -157,6 +157,24 @@ h1, h2, h3 {
     font-family: "Roboto Slab";
 }
 
+.table {
+    background-color: #ddd;
+    overflow: hidden;
+    font-size: 11pt;
+    color: #333;
+    border-radius: 5px !important;
+    text-align: center;
+    > thead > tr > th {
+        color: #eee;
+        background-color: #444;
+        border-bottom: none;
+    }
+}
+
+textarea.form-control {
+    max-width: 100%;
+}
+
 // ----
 
 .home-header {
