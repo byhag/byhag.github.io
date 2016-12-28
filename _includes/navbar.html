@@ -44,7 +44,7 @@
       <li {% if page.permalink == "/climb" %}class="active"{% endif %}>
         <a href="/climb">climb{% if page.permalink == "/climb" %}<span class="sr-only">(current)</span>{% endif %}</a>
       </li>
-      <!--<li class="dropdown">
+      <li class="dropdown hidden-sm hidden-md hidden-lg">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">God <span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><a href="/God/introduction">introduction</a></li>
@@ -56,7 +56,7 @@
           <li><a href="/God/are-you-open-minded">are you open-minded? (supplemental)</a></li>
         </ul>
       </li>
-      <li class="dropdown">
+      <li class="dropdown hidden-sm hidden-md hidden-lg">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Truth <span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><a href="/Truth/introduction">introduction</a></li>
@@ -64,66 +64,67 @@
           <li><a href="/Truth/is-there-absolute-truth">is there absolute truth?</a></li>
           <li><a href="/Truth/Bible-historical-ot">is the Bible historical? (Old Testament)</a></li>
           <li><a href="/Truth/Bible-historical-nt">is the Bible historical? (New Testament)</a></li>
-          <li><a href="/Truth/Bible-from-God">is the Bible from God?</a></li>
+          <li><a href="/Truth/Bible-from-God-part1">is the Bible from God?</a></li>
           <li><a href="/Truth/Bible-handed-down-correctly">has the Bible been handed down correctly?</a></li>
           <li class="divider"></li>
-          <li><a href="/Truth/Bible-from-God-cont">is the Bible from God? cont. (supplemental)</a></li>
+          <li><a href="/Truth/Bible-from-God-part2">is the Bible from God? cont. (supplemental)</a></li>
         </ul>
       </li>
-      <li class="dropdown">
+      <li class="dropdown hidden-sm hidden-md hidden-lg">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">God and Man<span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><a href="/God-and-Man/introduction">introduction</a></li>
           <li class="divider"></li>
           <li><a href="/God-and-Man/what-is-God-like-part2">what is God like? (part 2)</a></li>
-          <li><a href="/God-and-Man/what-is-our-purpose">what is our purpose in life?</a></li>
+          <li><a href="/God-and-Man/what-is-the-purpose-in-life">what is our purpose in life?</a></li>
         </ul>
       </li>
-      <li class="dropdown">
+      <li class="dropdown hidden-sm hidden-md hidden-lg">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Man and Sin<span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><a href="/Man-and-Sin/introduction">introduction</a></li>
           <li class="divider"></li>
-          <li><a href="/Man-and-Sin/what-is-sin">what is God like? (part 2)</a></li>
+          <li><a href="/Man-and-Sin/what-is-sin">what is sin?</a></li>
           <li><a href="/Man-and-Sin/heaven-hell-and-sin">what are heaven, hell, and the results of sin?</a></li>
           <li class="divider"></li>
           <li><a href="/Man-and-Sin/who-is-Satan">who is Satan? (supplemental)</a></li>
         </ul>
       </li>
-      <li class="dropdown">
+      <li class="dropdown hidden-sm hidden-md hidden-lg">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sin and Jesus<span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><a href="/Sin-and-Jesus/introduction">introduction</a></li>
           <li class="divider"></li>
           <li><a href="/Sin-and-Jesus/did-Jesus-exist">did Jesus exist?</a></li>
-          <li><a href="/Sin-and-Jesus/why-did-Jesus-come-and-die">why did Jesus come and die?</a></li>
+          <li><a href="/Sin-and-Jesus/why-Jesus-came-and-died">why did Jesus come and die?</a></li>
           <li><a href="/Sin-and-Jesus/did-Jesus-rise">did Jesus rise from the dead?</a></li>
           <li><a href="/Sin-and-Jesus/importance-of-the-resurrection">why is Jesus' resurrection important?</a></li>
         </ul>
       </li>
-      <li class="dropdown">
+      <li class="dropdown hidden-sm hidden-md hidden-lg">
         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Salvation <span class="caret"></span></a>
         <ul class="dropdown-menu">
           <li><a href="/Salvation/introduction">introduction</a></li>
           <li class="divider"></li>
           <li><a href="/Salvation/how-can-I-be-saved">how can I be saved?</a></li>
-          <li><a href="/Salvation/what-now">I'm a Christian! Now what?</a></li>
+          <li><a href="/Salvation/Im-a-Christian-what-now">I'm a Christian! What now?</a></li>
           <li class="divider"></li>
           <li><a href="/Salvation/is-baptism-necessary">is baptism necessary? (supplemental)</a></li>
         </ul>
-      </li>-->
+      </li>
     </ul>
   </div><!-- /.navbar-collapse -->
 
+  {% unless page.url == "/search" %}
   <div class="navbar-collapse collapse navbar-right" id="search-collapse">
     <form class="navbar-form" role="search">
       <div class="input-group">
         <input type="text" class="form-control" placeholder="search">
         <div class="input-group-btn">
-          <button type="submit" OnClick="DoThing()" class="btn btn-default"><i class="fa fa-search"></i></button>
+          <a type="submit" href="/search" class="btn btn-primary"><i class="fa fa-search"></i></a>
         </div>
       </div>
     </form>
   </div>
-  
+  {% endunless %}
 </div><!-- /.container-fluid -->

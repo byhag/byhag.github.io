@@ -4,7 +4,7 @@ title: "Why is Jesus' resurrection important?"
 subtitle:
 bgimage: summit-cross.jpg
 module: "Sin and Jesus"
-permalink: /Sin-and-Jesus/why-is-Jesus-resurrection-important
+permalink: /Sin-and-Jesus/importance-of-the-resurrection
 ---
  
 Paul claims, “And if Christ has not been raised, your faith is futile and you are still in your sins” (1 Corinthians 15:17). C.S. Lewis writes, “And now, what was the purpose of it all? What did he come to do? Well, to teach, of course, but as soon as you look into the New Testament or any other Christian writing you will find that they are constantly talking about something different—about His death and His coming to life again” [1].

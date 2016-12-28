@@ -1,7 +1,7 @@
 ---
 title: "Is there absolute truth?"
 subtitle: ""
-bgimage: forest-path.png
+bgimage: forest-path.jpg
 layout: article
 module: Truth
 permalink: /Truth/is-there-absolute-truth

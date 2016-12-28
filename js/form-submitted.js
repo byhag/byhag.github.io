@@ -31,6 +31,10 @@ function sendEmail() {
         dataType: "json"
     });
 
+    for (var i = 0; i < form.length; ++i) {
+        form[i].value = "";
+    }
+
     $('.alert').hide();
     $('#email-form').hide();
     $('#thanks').show();
