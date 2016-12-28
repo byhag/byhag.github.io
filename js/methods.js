@@ -10,14 +10,5 @@ $(document).ready( function() {
         console.log(screen.width);
         e.preventDefault();
         $(this).next('.submenu').slideToggle();
-        console.log(screen.width);
-        if (screen.width <= 768) {
-            console.log('toggle');
-            $('#page-content-wrapper').toggle(function(){
-                this.css('overflow-y','hidden');
-            }, function () {
-                this.css('overflow-y','auto');
-            });
-        }
     });
 });
