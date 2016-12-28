@@ -1,10 +1,9 @@
 ---
-# YAML Front Matter
 ---
 
 @import 'bootstrap';
 
-$faded-gray: #333;
+$faded-gray: #444;
 $rr-green-light: #81D135;
 $rr-green-dark: #437414;
 $rr-brown: #8A572E;
@@ -56,15 +55,23 @@ $rr-brown: #8A572E;
     }
 }
 
+.btn {
+    border: none;
+}
+
 .navbar-fixed-top {
     margin-bottom: 0;
-    background-color: #222;
+    background-color: #333;
     border: none;
 
-    -webkit-box-shadow: 0px 10px 20px 5px rgba(0,0,0,0.4);
-    -moz-box-shadow: 0px 10px 20px 5px rgba(0,0,0,0.4);
-    box-shadow: 0px 10px 20px 5px rgba(0,0,0,0.4);
+    // -webkit-box-shadow: 0px 10px 20px 5px rgba(0,0,0,0.4);
+    // -moz-box-shadow: 0px 10px 20px 5px rgba(0,0,0,0.4);
+    // box-shadow: 0px 10px 20px 5px rgba(0,0,0,0.4);
     
+    .active > a {
+        background-color: #222 !important;
+    }
+
     a {
         color: #eee;
         &:hover,
@@ -84,36 +91,52 @@ $rr-brown: #8A572E;
             &:hover,
             &:focus {
                 color: #fff;
-                background-color: #444 !important;
+                background-color: #333 !important;
             }
         }
     }
 
     input {
-        margin-top: 3px;
-        height: 35px;
         border-color: #eee;
+        @media (max-width: $screen-sm-max) {
+            width: 135px !important;
+        }
+        @media (max-width: $screen-xs-max) {
+            width: 100% !important;
+        }
     }
 
-    .input-group-btn > button {
+    .input-group-btn > a {
         color: #eee;
-        border-color: #eee;
+        border: solid 1px #eee;
         background-color: transparent;
-        margin-top: 3px;
-        padding: 4px 20px 4px 20px;
+        padding: 6px 20px 7px 20px !important;
         &:hover,
         &:focus {
             color: #fff;
             background-color: $faded-gray;
         }
+        @media (max-width: $screen-sm-max) {
+            padding: 5px 20px 6px 20px !important;
+        }
     }
 }
 
 .navbar-brand {
-    padding: 8px $navbar-padding-horizontal 0px $navbar-padding-horizontal;
-    @media (max-width: $screen-sm-max) {
-        padding-top: 10px;
+    padding: 15px $navbar-padding-horizontal 0px $navbar-padding-horizontal;
+    @media (max-width: $screen-xs-max) {
+        padding-top: 20px;
     }
+}
+
+.modal-header {
+    background-color: #444;
+    color: #eee;
+    font-family: "Roboto Slab";
+}
+
+.modal-footer {
+    background-color: #444;
 }
 
 .search {
@@ -122,8 +145,9 @@ $rr-brown: #8A572E;
 
 .btn-primary, .btn-default {
     border-color: #333;
-    &:hover {
-        background-color: #444;
+    &:hover,
+    &:focus {
+        background-color: $rr-green-light;
     }
     @media (max-width: $screen-sm-max) {
         font-size: 13pt;
@@ -221,7 +245,7 @@ textarea.form-control {
 
 .content {
     padding: 70px 15% 50px 15%;
-    min-height: 90vh;
+    min-height: 88vh;
     overflow: auto;
     @media (max-width: $screen-sm-max) {
         padding: 50px 5% 50px 5%;
@@ -246,6 +270,30 @@ textarea.form-control {
             font-size: 20pt;
         }
     }
+
+    a:not(.btn) {
+        color: #444;
+        display: inline-block;
+        line-height: 1;
+        border-bottom: 3px solid $rr-green-dark !important;
+        &:hover,
+        &:focus {
+            text-decoration: none;
+            border-bottom: 3px solid $rr-green-light !important; 
+        }
+        &.result {
+            margin-bottom: 9.5pt;
+            h3 {
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+.search-page-bar {
+    button {
+        padding: 7px 30px 6px 30px;
+    }
 }
 
 .facebook {
@@ -266,9 +314,9 @@ textarea.form-control {
 }
 
 .footer {
-    height: 10vh;
+    height: 12vh;
     padding: 15px 20%;
-    background-color: $gray-darker;
+    background-color: #222;
     color: #eee;
     @media (max-width: $screen-sm-max) {
         padding: 10px 15% 10px 10%;
@@ -299,7 +347,7 @@ textarea.form-control {
     text-align: center;
     padding: 3px 3px 1px;
     border-radius: 3px;
-    background: linear-gradient($faded-gray, $faded-gray);
+    background-color: #333;
     position: relative;
     left: 47%;
     top: 70%;
@@ -309,8 +357,56 @@ textarea.form-control {
 }
 
 .rtBibleRef {
-    text-decoration: underline;
+    
+}
+
+#logo {
+    width: 250px;
+    height: 70px;
     &:hover {
-        text-decoration: none;
+        background: rgba(255,255,255,0.1);
+    }
+}
+
+#menu-toggle {
+    position: fixed !important;
+    top: 100px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    z-index: 1001;
+    @media (max-width: $screen-xs-max) {
+        top: 15px;
+        right: 20px;
+        border-top-left-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+}
+
+.submenu {
+    border-top: 3px solid #111;
+    border-bottom: 3px solid #111;
+    padding-left: 0;
+    list-style-type: none;
+    background-color: #333;
+    > .divider {
+        border-top: 2px solid #222;
+    }
+    a {
+        line-height: $line-height-base;
+        text-indent: 0;
+        padding: 10px 10px 10px 20px;
+        display: block;
+        overflow: auto;
+    }
+}
+
+.nav-search {
+    padding: 5px 10px;
+    .btn {
+        display: block;
+        text-indent: 0;
+        padding: 5px 20px 6px;
+        border: 1px solid #eee;
+        color: #eee;
     }
 }

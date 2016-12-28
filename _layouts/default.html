@@ -5,14 +5,18 @@
 
   <body>
 
-    {% include fixed-navbar.html %}
-
-    <div class="default">
-
-      {{ content }}
-
-      {% include footer.html %}
+    <div id="wrapper">
       
+
+      {% include side-navbar.html %}
+
+      <div id="page-content-wrapper" class="default">
+        <a class="btn btn-lg btn-primary" id="menu-toggle"><i class="fa fa-lg fa-bars"></i></a>
+
+        {{ content }}
+        
+        {% include footer.html %}
+      </div>
     </div>
 
     {% include reftagger.html %}
