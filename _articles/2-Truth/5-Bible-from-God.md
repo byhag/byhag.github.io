@@ -32,7 +32,7 @@ How could the book of Jeremiah say with such accuracy that the Babylonian rule w
 What would we make of these prophecies? We can prove conclusively that man could not bring about the fulfillment of these prophecies. Can man foretell the precise name of a future usurper of the throne of the reigning empire? Can man foretell that slaves in an empire would regain their power and overthrow a nation that had opposed them? Can man foretell that an empire that ruled much of the known world will last precisely 70 years?
  
 No, it is only a supernatural being that can foretell such things. It is God who holds the breadth of time in his hand. It is He who wrote these words, and, by His same hand, we have the rest of the Scriptures.
-​
+​ 
 ### References
 1. [https://www.britannica.com/biography/Cyrus-II](https://www.britannica.com/biography/Cyrus-II)
 2. [http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=327188&partId=1](http://www.britishmuseum.org/research/collection_online/collection_object_details.aspx?objectId=327188&partId=1)
