@@ -4,7 +4,7 @@ subtitle: "God's Words to Mankind"
 bgimage: forest-path.jpg
 layout: article
 module: Truth
-permalink: /Truth/Introduction
+permalink: /Truth/introduction
 ---
 
 If the evidence of God’s existence was all that we had, one might be very puzzled that this almighty and purposeful God would leave us with no clue of what He desired. This module examines the question of truth and the evidence of God’s revealed words to humanity. It also addresses the question regarding our possession of an accurate record of those words.
