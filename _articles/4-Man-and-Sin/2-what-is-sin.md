@@ -8,7 +8,7 @@ permalink: /Man-and-Sin/what-is-sin
 ---
 
 Often Christians are found discussing a concept called “sin.” They talk about this because of the consequences they believe it brings. This article discusses what sin is as well as what it means for us and mankind.
-​ 
+
 ### Sin is deviation of God’s law
 Sin, by definition, is “to wander from the law of God, violate God's law” [1]. So, if a divine, objective moral law does in fact exist, then sin is the deviation from it. As in any law system, deviations from the law are counted as offenses and are punished, often resulting in tragedy (Romans 6:23). Additionally, as in any law system, the result of sin is a wedge or separation between two parties. In this case, that wedge is between God and man (Isaiah 59:2).
  
@@ -37,6 +37,7 @@ Additionally, say Person A and Person C have ideas that are always exactly oppos
 The previous section discussed the idea that sin is making oneself the god of his own world. The truth is that making oneself a god is making oneself a subject of Satan’s kingdom, because God’s kingdom and Satan’s are exactly opposite to one another. The idea that sin is something other than allegiance to Satan is perhaps the greatest lie of all and is a lie that has been told since the very beginning.
  
 ### Analogy to Adam and Eve 
+
 #### (read Genesis 3:1-24)
 Let’s examine the sin of Adam and Eve in the Garden of Eden to reinforce the three principles set forth so far.
  
