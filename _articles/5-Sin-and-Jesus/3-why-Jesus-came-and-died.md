@@ -21,7 +21,7 @@ But that’s not what happened. Instead of submitting to God’s authority, huma
 The Bible calls this sentence “death.” The Lord’s warning about the forbidden fruit was that “in the day that you eat of it you shall surely die” (Genesis 2:17). One aspect of that penalty is physical death – “for you are dust, and to dust you shall return” (Genesis 3:19). And when Adam and Eve were cast from God’s presence in the Garden, they were also separated from the “tree of life,” and left to face mortality without God’s protection. But this physical aspect of death is only one piece of a much larger issue – spiritual death. Since God is the source of all life, physical and spiritual, to be driven from God is to be driven from spiritual life itself.
  
 The story of Adam and Eve is the story of all of us. We all choose to do things our way rather than God’s. But what this really means is that we love something more than God. We have created a rift in that most important of all relationships, and the consequence is death.
-​
+
 ### Love Reunites
 Let’s imagine a little boy named Josh. [2] He loves to play soccer, and constantly practices dribbling. His mother has a beautiful flower garden, and has told Josh that he can dribble anywhere he wants, but he must stay away from the flowers. One day though, in his imagination, Josh is about to win the World Cup, and in order to make the winning shot he tramples straight through his mother’s flowers.
  
@@ -46,7 +46,7 @@ But God shows his love for us in that while we were still sinners, Christ died f
 Why did Jesus die? To reconcile us to God by His perfect life and obedient death. And why was God willing to do this for us? Because He loves us. And so the answer to the question, “Why did Jesus die,” is very simple.
  
 Love.
-​
+
 ### References
 1. Pro Rabirio 16.
 2. I am indebted to philosopher Eleonore Stump for this illustration (found in “Atonement According to Aquinas” in Oxford Readings in Philosophical Theology: Volume 1. Oxford: Oxford University Press, 2009).
