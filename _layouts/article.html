@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<a href="https://www.facebook.com/sharer.php?u=byhag.github.io{{page.permalink}}" 
+          class="btn btn-lg btn-primary share" target="_blank"
+          onclick="return !window.open(this.href, 'Facebook share', 'width=500,height=500')"><i class="fa fa-lg fa-share-alt"></i></a>
+
 <article>
 
   {% include article-header.html %}
@@ -8,11 +12,17 @@ layout: default
   <main class="content">
     <div class="col-xs-12">
       <div class="article">
+        
         {{ content }}
         
         {% for article in site.articles %}
-          {% if artile.url == page.url %}
-          <a href="https://www.facebook.com/sharer.php?u=byhag.github.io{{page.url}}" class="btn btn-primary" target="_blank">Share</a>
+          {% if article.permalink == page.permalink and page.intro != true %}
+          <br>
+          <div class="btn-group btn-group-justified">
+            <a class="btn btn-lg btn-primary" href="{{page.previous.permalink}}">Previous</a>
+            <a class="btn btn-lg btn-primary" href="{{page.next.permalink}}">Next</a>
+          </div>
+          
           {% endif %}
         {% endfor %}
       </div>
