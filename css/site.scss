@@ -374,10 +374,12 @@ textarea.form-control {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
     z-index: 1001;
+    width: 60px;
     @media (max-width: $screen-xs-max) {
         top: 15px;
         right: 20px;
         border-radius: 5px;
+        width: 50px;
     }
 }
 
@@ -421,9 +423,11 @@ textarea.form-control {
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
     top: 30px;
+    width: 60px;
     @media (max-width: $screen-xs-max) {
         top: 15px;
         left: 20px;
         border-radius: 5px;
+        width: 50px;
     }
 }
