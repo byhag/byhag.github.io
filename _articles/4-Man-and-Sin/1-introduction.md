@@ -5,6 +5,7 @@ subtitle: "Man's Current State"
 bgimage: trees.jpg
 module: "Man and Sin"
 permalink: /Man-and-Sin/introduction
+intro: true
 ---
 
 Where there is opportunity to succeed, there is also an opportunity to fail.
@@ -14,6 +15,8 @@ From the last branch, we found that God made man with the ability to choose Him.
 ### Branch Articles:
 {% for article in site.articles %}
 {% if article.module == "Man and Sin" %}
+{% unless article.title == page.title %}
 - [{{article.title}} - {{article.subtitle}}]({{article.permalink}})
+{% endunless %}
 {% endif %}
 {% endfor %}

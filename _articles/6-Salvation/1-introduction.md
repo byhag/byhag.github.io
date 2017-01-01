@@ -5,6 +5,7 @@ subtitle: "God's Grace to You"
 bgimage: asphalt.jpg
 module: Salvation
 permalink: /Salvation/introduction
+intro: true
 ---
 
 After considering the ideas presented so far, it would be possible and even logical to think, “well, what does this have to do with me (individually)?”. Some might have already inferred the answer to this question.
@@ -16,6 +17,8 @@ God intended this new relationship for all men, and He offers it freely. However
 ### Branch Articles:
 {% for article in site.articles %}
 {% if article.module == "Salvation" %}
+{% unless article.title == page.title %}
 - [{{article.title}} - {{article.subtitle}}]({{article.permalink}})
+{% endunless %}
 {% endif %}
 {% endfor %}
