@@ -273,7 +273,7 @@ textarea.form-control {
 
     a:not(.btn) {
         color: #444;
-        display: inline-block;
+        //display: inline-block;
         line-height: 1;
         border-bottom: 3px solid $rr-green-dark !important;
         &:hover,
@@ -377,26 +377,23 @@ textarea.form-control {
     @media (max-width: $screen-xs-max) {
         top: 15px;
         right: 20px;
-        border-top-left-radius: 5px;
-        border-bottom-left-radius: 5px;
+        border-radius: 5px;
     }
 }
 
 .submenu {
-    border-top: 3px solid #111;
-    border-bottom: 3px solid #111;
+    //border-top: 3px solid #111;
+    //border-bottom: 3px solid #111;
     padding-left: 0;
     list-style-type: none;
     background-color: #333;
-    > .divider {
-        border-top: 2px solid #222;
-    }
     a {
         line-height: $line-height-base;
         text-indent: 0;
-        padding: 10px 10px 10px 20px;
+        padding: 12px 10px 12px 20px !important;
         display: block;
         overflow: auto;
+        border-top: solid 2px #444 !important;
     }
 }
 
