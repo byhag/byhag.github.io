@@ -1,5 +1,6 @@
 $(document).ready( function() {
     $('.submenu').hide();
+    $('.sharing').hide();
 
     $("#menu-toggle").click(function(e) {
         e.preventDefault();
@@ -7,8 +8,12 @@ $(document).ready( function() {
     });
 
     $(".submenu-toggle").click(function(e) {
-        console.log(screen.width);
         e.preventDefault();
         $(this).next('.submenu').slideToggle();
+    });
+
+    $(".sharing-toggle").click(function(e) {
+        e.preventDefault();
+        $(this).next('.sharing').slideToggle();
     });
 });

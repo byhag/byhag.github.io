@@ -370,7 +370,7 @@ textarea.form-control {
 
 #menu-toggle {
     position: fixed !important;
-    top: 100px;
+    top: 30px;
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
     z-index: 1001;
@@ -417,17 +417,40 @@ textarea.form-control {
     }
 }
 
-.share {
+.sharing-toggle {
     position: fixed;
     z-index: 10;
     border-top-left-radius: 0;
     border-bottom-left-radius: 0;
-    top: 30px;
+    top: 100px;
     width: 60px;
     @media (max-width: $screen-xs-max) {
         top: 15px;
         left: 20px;
         border-radius: 5px;
         width: 50px;
+    }
+}
+
+.sharing {
+    position: fixed;
+    z-index: 10;
+    top: 150px;
+    @media (max-width: $screen-xs-max) {
+        top: 60px;
+        left: 20px;
+    }
+    > ul {
+        padding-left: 0;
+        list-style-type: none;
+    }
+    a {
+        border-top-left-radius: 0;
+        border-bottom-left-radius: 0;
+        width: 60px;
+        @media (max-width: $screen-xs-max) {
+            border-radius: 5px;
+            width: 50px;
+        }
     }
 }

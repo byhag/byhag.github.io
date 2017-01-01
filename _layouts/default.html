@@ -9,10 +9,20 @@
       
 
       {% include side-navbar.html %}
-      <a href="https://www.facebook.com/sharer.php?u=byhag.github.io{{page.permalink}}" 
-          class="btn btn-lg btn-primary share" target="_blank"
-          onclick="return !window.open(this.href, 'Facebook share', 'width=500,height=500')"><i class="fa fa-lg fa-facebook"></i></a>
-
+      <a class="btn btn-lg btn-primary sharing-toggle"><i class="fa fa-lg fa-share-alt"></i></a>
+      <div class="sharing">
+        <ul>
+          <li>
+            <a href="https://www.facebook.com/sharer.php?u=byhag.github.io{{page.permalink}}" 
+              class="btn btn-lg btn-primary" target="_blank"
+              onclick="return !window.open(this.href, 'Facebook share', 'width=500,height=500')"><i class="fa fa-lg fa-facebook"></i></a>
+          </li>
+          <li>
+            <a href="https://www.facebook.com/sharer.php?u=byhag.github.io{{page.permalink}}" 
+              class="btn btn-lg btn-primary" target="_blank"
+              onclick="return !window.open(this.href, 'Facebook share', 'width=500,height=500')"><i class="fa fa-lg fa-twitter"></i></a>
+          </li>
+      </div>
       <a class="btn btn-lg btn-primary" id="menu-toggle"><i class="fa fa-lg fa-bars"></i></a>
       
 
