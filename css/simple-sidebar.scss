@@ -39,7 +39,7 @@ $height-mobile: 550px;
     margin-top: -$height-mobile;
     overflow-y: auto;
     background: #222;
-    padding-top: 70px;
+    //padding-top: 70px;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -51,6 +51,7 @@ $height-mobile: 550px;
 }
 
 #page-content-wrapper {
+    width: 100%;
     height: $height-mobile;
     position: absolute;
 }
