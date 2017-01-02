@@ -57,6 +57,13 @@ $rr-brown: #8A572E;
 
 .btn {
     border: none;
+    > .fa-envira {
+        color: $rr-green-light;
+        font-size: 13pt;
+    }
+    &:hover > .fa-envira {
+        color: $rr-green-dark;
+    }
 }
 
 .navbar-fixed-top {
@@ -455,5 +462,82 @@ textarea.form-control {
             border-radius: 5px;
             width: 50px;
         }
+    }
+}
+
+.truthtree {
+    overflow-x: hidden;
+    margin: 0;
+    margin-bottom: -1px;
+    padding-left: 100px;
+    > img {
+        height: 90vh;
+    }
+    @media (max-width: $screen-xs-max) {
+        padding-left: 0;
+        margin-left: -200px;
+    }
+    
+}
+
+.select-toggle {
+    width: 50vw;
+    border-radius: 5px;
+    @media (max-width: $screen-xs-max) {
+        width: 90vw;
+    }
+}
+
+.select-menu {
+    position: absolute;
+    padding-left: 0;
+    z-index: 10;
+    list-style-type: none;
+    width: 50vw;
+    background-color: #444;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    @media (max-width: $screen-xs-max) {
+        width: 90vw;
+    }
+    > li {
+        border-top: solid 2px #555;
+        &:last-child > a {
+            border-bottom-left-radius: 5px;
+            border-bottom-right-radius: 5px;
+        }
+        > a {
+            display: block;
+            padding: 7px;
+            &:hover {
+                background-color: $rr-green-light;
+                text-decoration: none;
+                color: #fff;
+            }
+            color: #ddd;
+        }
+    }
+}
+
+.truthtree-content {
+    padding: 70px 15% 0 15%;
+    overflow: auto;
+    @media (max-width: $screen-sm-max) {
+        padding: 50px 5% 0 5%;
+    }
+}
+
+.tree-branches {
+    font-family: "Roboto Slab";
+    position: absolute;
+    padding-top: 60px;
+    padding-left: 0;
+    left: 50vw;
+    transform: translate(-50%);
+    list-style-type: none;
+    > .arrow {
+        color: $rr-green-light;
+        height: 5vh;
+        text-align: center;
     }
 }
