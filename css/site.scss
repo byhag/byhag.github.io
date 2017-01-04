@@ -209,20 +209,20 @@ textarea.form-control {
 // ----
 
 .home-header {
-	padding: 15% 15% 15% 15%;
+	padding: 30vh 15% 0 15%;
 	color: #fff;
 	height: 100vh;
 	margin: 0;
-    @media (max-width: $screen-sm-max) {
-        padding-top: 50%;
-        padding-bottom: 30%;
+    @media (max-width: $screen-xs-max) {
+        //padding-top: 50vh;
+        padding-bottom: 0;
     }
 
     img {
         margin-left: -10px;
-        width: 50%;
-        @media (max-width: $screen-sm-max) {
-            width: 100%;
+        width: 500px;
+        @media (max-width: $screen-xs-max) {
+            width: 300px;
         }
     }
     h2 {
@@ -245,6 +245,15 @@ textarea.form-control {
     width: 100%;
     height: 100vh;
     top: -100px;
+}
+
+.home-header-background {
+    background-size: cover;
+    box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
+    z-index: -10;
+    position: fixed;
+    width: 100%;
+    height: 100vh;
 }
 
 .article-header {
@@ -367,11 +376,9 @@ textarea.form-control {
     border-radius: 3px;
     background-color: #333;
     position: relative;
-    left: 47%;
-    top: 70%;
-    @media (max-width: $screen-sm-max) {
-        left: 40%;
-    }
+    left: 50%;
+    transform: translateX(-50%);
+    top: 30vh;
 }
 
 .rtBibleRef {
