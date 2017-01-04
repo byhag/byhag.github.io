@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Did Jesus rise from the dead?"
-subtitle:
+subtitle: "The most likely explanation"
 bgimage: summit-cross.jpg
 module: "Sin and Jesus"
 permalink: /Sin-and-Jesus/did-Jesus-rise

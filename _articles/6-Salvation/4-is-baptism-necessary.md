@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Is baptism necessary?"
-subtitle: "Supplementary"
+subtitle: "Some objections (Supplemental)"
 bgimage: tree-water.jpg
 module: Salvation
 permalink: /Salvation/is-baptism-necessary

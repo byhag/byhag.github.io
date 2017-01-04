@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "How can I be saved?"
-subtitle:
+subtitle: "Death and resurrection"
 bgimage: asphalt.jpg
 module: Salvation
 permalink: /Salvation/how-can-I-be-saved
@@ -25,6 +25,6 @@ What is baptism? Baptism is a being immersed in water through faith in Jesus (1 
 If we examine the accounts of salvation in the historical book of Acts, we’d find that accounts of someone who gained a faith in Jesus is baptized shortly after for the forgiveness of their sins. For example, when the Jewish people were convicted about Jesus, they asked the followers of Jesus, “What shall we do?”. Peter replied, “Repent and be baptized every one of you in the name of Jesus Christ for the remission of sins…” (Acts 2:37-38). Later in Acts, a certain man asked “What shall I do to be saved?” Paul replied that he should believe, and then the man was baptized at once (Acts 16:30-33). If faith is the means, then baptism is the medium.
  
 ### Conclusion
-Salvation comes through Christ through faith through baptism. It is in baptism that we die to ourselves and live to God, demonstrating our faith and belief in Jesus Christ. However, an active and true faith does not stop there. It is one that is more than just a belief. It continues to grow, and it confesses itself to others. We must strive to make our salvation sure                   (2 Peter 1:3-11). More about this is discussed in the next lesson.
+Salvation comes through Christ through faith through baptism. It is in baptism that we die to ourselves and live to God, demonstrating our faith and belief in Jesus Christ. However, an active and true faith does not stop there. It is one that is more than just a belief. It continues to grow, and it confesses itself to others. We must strive to make our salvation sure (2 Peter 1:3-11). More about this is discussed in the next lesson.
  
 A great deal more could be said, but if you are interested, we ask that you “ask to study with us” by contacting us through this [link](/study-with-us). We would truly love to talk to you more about this.

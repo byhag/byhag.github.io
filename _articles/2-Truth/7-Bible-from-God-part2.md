@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Is the Bible from God?"
-subtitle: "Messianic prophecy"
+subtitle: "Messianic prophecy (Supplemental)"
 bgimage: phone.jpg
 module: Truth
 permalink: /Truth/Bible-from-God-part2

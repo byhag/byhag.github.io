@@ -2,7 +2,7 @@
 layout: article
 title: "Introduction: Salvation"
 subtitle: "God's Grace to You"
-bgimage: asphalt.jpg
+bgimage: tree-water.jpg
 module: Salvation
 permalink: /Salvation/introduction
 intro: true

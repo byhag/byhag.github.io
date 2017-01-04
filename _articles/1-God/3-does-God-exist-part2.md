@@ -1,6 +1,6 @@
 ---
 title: "Does God exist?"
-subtitle: "Part 2"
+subtitle: "Inside evidence"
 bgimage: milky-way.jpg
 layout: article
 module: God

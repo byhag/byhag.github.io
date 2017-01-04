@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Who is Satan?"
-subtitle: "Supplementary"
+subtitle: "The Enemy (Supplemental)"
 bgimage: trees.jpg
 module: "Man and Sin"
 permalink: /Man-and-Sin/who-is-Satan

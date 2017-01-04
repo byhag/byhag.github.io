@@ -1,6 +1,6 @@
 ---
 title: "What is God like?"
-subtitle: "Part 1"
+subtitle: "The God of the Universe"
 bgimage: milky-way.jpg
 layout: article
 module: God

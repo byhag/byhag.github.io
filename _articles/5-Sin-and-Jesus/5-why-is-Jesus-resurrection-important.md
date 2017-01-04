@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Why is Jesus' resurrection important?"
-subtitle:
+subtitle: "Who He claimed to be"
 bgimage: summit-cross.jpg
 module: "Sin and Jesus"
 permalink: /Sin-and-Jesus/importance-of-the-resurrection
@@ -17,7 +17,7 @@ Jesus Himself claimed to be God. In John 10:30 He stated, “I and the Father ar
 The fact that Jesus died on a cross does not prove that Jesus was God or was anything greater than a man. It is the fact that Jesus returned from the dead that proves He was indeed what He said He was. In death, Jesus, who claimed to be both God and man, proved that He was not contained by the laws governing human nature as He arose and thereby displayed His divine nature. It is this divine nature that gives Christ the power to save, to atone for the sins of man. This point is declared in Romans 1:4, where the apostle Paul writes of Him as the One who “was declared to be the Son of God in power according to the Spirit of holiness by His resurrection from the dead, Jesus Christ our Lord”.
  
 ### Christ’s Power Over Death
-Jesus claimed that His disciples would be given eternal life, rather than death                   (John 10:27-28). He promised freedom from physical death. If He indeed remained in the grave, that fact alone would falsify the promises He made to those who would follow Him because it would have been made clear that He was unable to prove them true even in Himself.
+Jesus claimed that His disciples would be given eternal life, rather than death (John 10:27-28). He promised freedom from physical death. If He indeed remained in the grave, that fact alone would falsify the promises He made to those who would follow Him because it would have been made clear that He was unable to prove them true even in Himself.
  
 But by rising from the dead, He proved His authority to break the bonds of death, ensuring life to those that would follow Him (Romans 6:8-9). More than just providing life and resurrection for His followers, He confirmed His claim that He was the very embodiment of the resurrection and the life (John 11:25). Christ alone transcends death and by the proof of His resurrection provides assurance that His followers will do the same.
  
@@ -29,7 +29,7 @@ But by rising from the dead, Jesus broke the power of Satan and defeated him, cl
 ### Conclusion
 Jesus did indeed rise from the dead - this is a fact of great significance. It means not merely something, but everything. It means this Jesus was the Son of God. It means He conquered death and can provide life to those who follow Him. It means He is Lord over all, including the power of evil. It means we can live without fear through Him.
  
-“‘What are we to make of Christ?’ There is no question of what we can make of Him, it is entirely a question of what He intends to make of us. You must accept or reject the story” [3].
+> “‘What are we to make of Christ?’ There is no question of what we can make of Him, it is entirely a question of what He intends to make of us. You must accept or reject the story” [3].
  
 ### References
 1. C.S. Lewis, Mere Christianity, ch. 9

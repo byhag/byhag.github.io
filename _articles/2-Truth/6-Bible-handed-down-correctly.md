@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Has the Bible been handed down correctly?"
-subtitle:
+subtitle: "Reliability of ancient texts"
 bgimage: manuscript.jpg
 module: Truth
 permalink: /Truth/Bible-handed-down-correctly

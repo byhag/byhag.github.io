@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Did Jesus Exist?"
-subtitle:
+subtitle: "A historical look"
 bgimage: old-letters.jpg
 module: "Sin and Jesus"
 permalink: /Sin-and-Jesus/did-Jesus-exist
