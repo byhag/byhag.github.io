@@ -14,7 +14,7 @@ A man who was called Jesus, from a small village in Roman occupied Palestine in 
  
 This branch examines who this Jesus was, the meaning and legitimacy of the resurrection, and the purpose of His coming.
  
-### Branch Articles:
+## Branch Articles:
 {% for article in site.articles %}
 {% if article.module == "Sin and Jesus" %}
 {% unless article.title == page.title %}

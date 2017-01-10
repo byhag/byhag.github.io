@@ -9,12 +9,12 @@ permalink: /Salvation/is-baptism-necessary
 
 When considering this topic, we must examine the passages we have from God and come to the most straightforward conclusion. There are only two options: baptism is necessary for salvation or not necessary for salvation. The Christian religious community is divided into these two groups of thought despite the fact that in Paul’s letter to the Ephesians he claims there is “one baptism” (Ephesians 4:4-6). Thus, conversations about the necessity of baptism (or the lack thereof) not only have implications for each group’s salvation but also for the unity of the two parties.
  
-### The Necessity of Baptism
+## The Necessity of Baptism
 In the New Testament, baptism is referred to as the beginning of our covenant relationship with God. In Colossians 2:9-14, baptism is compared to circumcision, the sign of the Jewish covenant. When God’s covenant with Abraham began (Genesis 17:1-14), circumcision was the symbol of the new relationship between God and Abraham’s descendants, the Jews. If someone in Abraham’s family was not circumcised, he was to be “cut off” from the people (Genesis 17:14). For example, Moses was almost killed because he had not circumcised his children (Exodus 4:24-25). When we move into the New Testament, baptism is tied to how we become heirs to the promises given to Abraham (Galatians 3:27-29). If we are baptized, we are Christ’s. If we are Christ’s, we are Abraham’s. And if we are Abraham’s, we will receive the promises of the covenant.
  
 The Bible plainly teaches that baptism is directly tied to salvation and remission of sins. For example, 1 Peter 3:21 teaches that baptism corresponds to the salvation of Noah and his family experiences. Just as Noah and his family were cleansed from the wickedness of the world and were given a fresh start, baptism gives Christians remission of sins through faith. Jesus says in Mark 16:16 says that he who both believes and is baptized will be saved. In Romans 6:1-11, baptism is said to mean “newness of life” for Christians. In Colossians 2:13, Paul says that through baptism, God makes us alive in Christ.
  
-### Rebuttal of Arguments Against the Necessity of Baptism
+## Rebuttal of Arguments Against the Necessity of Baptism
 **Some might say: “Baptism is a work or ceremony. We are not saved by works, but by grace. (Ephesians 2:8-9)”.**
 
 We are, in fact, saved by grace and not by works. But the Bible does not talked about baptism as a work that deserves salvation. In the book of Colossians, Paul talks about baptism as something that is done by and through “the powerful working of God”. Thus, it is God that truly does the work here, not man. (Colossians 2:11-14)
@@ -45,7 +45,7 @@ In Peter’s recounting of this event, he believed that the Holy Spirit was give
 
 Peter and Paul state its purpose is for forgiveness of sins (Acts 2:38; Colossians 2:11-14). If the purpose is for some other reason, how did that idea come about?
  
-### Conclusion
+## Conclusion
 What does the Bible teach? No matter what the consequences, we must be united in what the Bible says about the “one baptism” (Ephesians 4:5). Baptism is a sign of the beginning of our covenant with God in water for the forgiveness of sins.
  
 Ananias said to Paul (Acts 22:16) “And now why do you wait? Rise and be baptized and wash away your sins, calling on his name.’”

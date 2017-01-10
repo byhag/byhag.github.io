@@ -11,7 +11,7 @@ permalink: /God-and-Man/what-is-God-like-part2
  
 In [“What is God Like? (Part 1)”](/God/what-is-God-like-part1), we attempted to piece together what can be learned about God by simply perceiving Him from what He has made. Fortunately, though God is unfathomable, He has helped us to perceive Him by telling us about Himself through the Bible. This article explains what we can learn about God through His own words.
  
-### His Nature
+## His Nature
 There is much misunderstanding about who God is, though this is nothing new. When Moses came to Pharaoh telling him to let God’s people go, Pharaoh replied, “Who is Yahweh that I should obey His voice to let Israel go? I do not know Yahweh, and besides, I will not let Israel go” (Exod. 5:1-2). Pharaoh had no idea who he was dealing with. In his mind, Yahweh was a lesser being who didn’t deserve to be respected to trusted.
  
 Denials of God often entail straw-manning God, making God out to be a character unknown to Scripture, or bringing God down to a level no greater than humans. Once this is done, God is easily dismissed, for who wants to believe in a god who is no wiser and no more knowledgeable than humans? When unbelievers mockingly speak of “the flying spaghetti monster” or something similar, they have only shown that they are like Pharaoh in that they do not know who God really is. Believers should not try to defend a caricatured version of God. Rather, believers find themselves in a situation much like Paul’s when he went into Athens and had to begin talking about “the unknown God” ( Acts 17:22-31).
@@ -39,5 +39,5 @@ Who is this God? While the God of Scripture is beyond anyone’s full understand
  
 All of God’s attributes, characteristics, and actions are surrounded by His glory. The glory of God is arguably the most overarching theme of Scripture, and all that is done, including salvation, is “to the praise of His glory” (Ephesians 1:12). This glory is manifested in the presence of “light,” a theme which is interwoven throughout Scripture. God “alone possesses immortality and dwells in unapproachable light, whom no man has seen or can see”              (1 Timothy 6:16). “Let there be light” are the first words recorded as being spoken by God (Genesis 1:3), Scripture ends with God being the light in heaven ( Revelation 22:5), and Jesus came from heaven as “the light of the world” ( John 9:5).
  
-### Conclusion
+## Conclusion
 While much more may be said about God, the preceding points may serve as foundational in a quest to understand more about God and His nature. When discussions about God occur, understanding what is meant when people talk about God is critical. For Christians, the only God they are interested in serving and defending is the God of Scripture, with all the characteristics attributed to Him. They are not interested in defending a lesser, toned-down version of a god unknown to Scripture. The God of the Bible is great beyond understanding.

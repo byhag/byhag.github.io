@@ -9,7 +9,7 @@ permalink: /Man-and-Sin/what-is-sin
 
 Often Christians are found discussing a concept called “sin.” They talk about this because of the consequences they believe it brings. This article discusses what sin is as well as what it means for us and mankind.
 
-### Sin is deviation of God’s law
+## Sin is deviation of God’s law
 Sin, by definition, is “to wander from the law of God, violate God's law” [1]. So, if a divine, objective moral law does in fact exist, then sin is the deviation from it. As in any law system, deviations from the law are counted as offenses and are punished, often resulting in tragedy (Romans 6:23). Additionally, as in any law system, the result of sin is a wedge or separation between two parties. In this case, that wedge is between God and man (Isaiah 59:2).
  
 We may feel duped that a distant God created a set of rules that keep us from “having fun” and that result in punishment should we break them - all decided without our input! If we say that He has done this completely without our input, we are completely correct. However, we should remember three things:
@@ -20,7 +20,7 @@ Second, we must realize that our relationship to God does not need to be democra
  
 Thirdly, we need not understand why God has told us not to do certain things that may appear to us to be fun and harmless. Remember that when you visited the doctor at a young age and your mother told the doctor to give you a shot? You weren’t too fond of that! You protested, not understanding that the pain of having the shot was worth the health benefits it offered. But in the end, you submitted to your mother’s will, trusting that she understood why the shot was needed. In the same way, we sometimes forget that God cares for us and knows what is best, even when we do not. If we consider the basic foundation of each sin, we can see that they are truly not in our best interest or the interests of those around us. Consider the one who lies. Do they not usually hurt the one they deceived? Consider the greedy. Do they not trample the poor and needy in their desperate attempt to gain power?
  
-### Sin is making ourselves gods
+## Sin is making ourselves gods
 When we make decisions, we compare the relative worth of two (or more) options. For example, when we decide to watch television instead of getting to bed at a decent time, we evaluate the worth of watching television as greater than the worth of getting to bed, at least at the time. Everyday decisions are not meaningless; they are, in fact, worth-assessments.
  
 If we examine the many decisions that we make between serving ourselves and others versus serving God, we’ll find that we often decide to serve ourselves rather than serve God. If you can’t see this in yourself, look for it in others - it is always easier to see it there. We are always remarkably able to make excuses for own self-centered worth assessments, and we are less likely to accept others’ excuses.
@@ -29,14 +29,15 @@ If many of our decisions are evaluated in our favor, and decision making is real
  
 In this way, sin is not only straying from or breaking God’s divine law, but it is also those actions and attitudes that constitute worship of ourselves instead of God (1 John 2:15). This “self-worship” approach disregards God entirely.
  
-### Sin is following after Satan
+## Sin is following after Satan
 When Person A tells a lie, and Person B believes it, Person B does not find some new truth. In actuality, he has just been taken advantage of by believing Person A’s lie. Satan does exist, and he is the father of lies (John 8:44). If we are convinced of his lies, we are not plotting our own course. Instead, we are being influenced by Satan.
  
 Additionally, say Person A and Person C have ideas that are always exactly opposed to one another. Under these circumstances, if Person B can choose only between believing either Person A or Person C. There is no middle ground. In the same way, God and Satan, by nature, having exactly opposing ideas. Therefore, it is impossible to be out of the influence of both of them at the same time. We will either believe one and regard the other as false or we will try to mix the two together (Luke 16:13).
  
 The previous section discussed the idea that sin is making oneself the god of his own world. The truth is that making oneself a god is making oneself a subject of Satan’s kingdom, because God’s kingdom and Satan’s are exactly opposite to one another. The idea that sin is something other than allegiance to Satan is perhaps the greatest lie of all and is a lie that has been told since the very beginning.
  
-### Analogy to Adam and Eve 
+## Analogy to Adam and Eve 
+
 
 #### (read Genesis 3:1-24)
 Let’s examine the sin of Adam and Eve in the Garden of Eden to reinforce the three principles set forth so far.
@@ -49,12 +50,12 @@ Additionally, let’s examine the involvement of Satan (or the serpent). He is c
  
 The action to eat of the forbidden fruit was greater than just an act of disobedience; it was an act of treachery. Man chose to follow after his own desires and the advice of Satan with disastrous results for all mankind, which is referred to popularly as “The Fall of Man”. This treachery resulted in the beginning of an ongoing struggle between the dominion of Satan and God (Genesis 3:14-15) that continues even today.
  
-### Conclusion
+## Conclusion
 “What Satan put into the heads of our remote ancestors was the idea that they could ‘be like gods’-could set up on their own as if they had created themselves-be their own masters-invent some sort of happiness for themselves outside God, apart from God. And out of that hopeless attempt has come nearly all that we call human history -money, poverty, ambition, war, prostitution, classes, empires, slavery-the long terrible story of man trying to find something other than God which will make him happy” [3].
  
 If we take an honest look within ourselves and others, we’ll find that when man decides to step away from God’s divine law in what he believes or thinks the results are often disastrous. Man will sooner or later find that, though he is setting himself up as the center, he is actually going down the same path as everyone else and is being led by someone else. This path promises much but delivers nothing but pain and sorrow in the end (Matthew 7:13-14).
  
-### References
+## References
 1. [http://www.blueletterbible.org/lang/lexicon/lexicon.cfm?Strongs=G266&t=ESV](http://www.blueletterbible.org/lang/lexicon/lexicon.cfm?Strongs=G266&t=ESV)
 2. [http://www.merriam-webster.com/dictionary/worship](http://www.merriam-webster.com/dictionary/worship)
 3. C.S. Lewis, Mere Christianity, Chapter 8

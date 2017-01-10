@@ -15,11 +15,11 @@ This is not an easy task. It requires deep self-examination with a humble and co
  
 In light of these points, there are some common assumptions that should be addressed when talking about the existence of God.
 
-### Beyond the natural world
+## Beyond the natural world
 The first is the assumption that there are only natural explanations for things in natural world. This is not to say that we should assume that there are only supernatural explanations for things in the natural world. This is not an either-or scenario. Rather, we should consider that both kinds are possible and we should go with the one that appears most reasonable. In the realm of medicine, we see that diseases are caused by bacteria, viruses, and genetics rather than a “punishment from God.” This is not because a disease couldn't be caused by some supernatural means, but rather the natural explanation is more reasonable and helpful to use. While in many cases, with what we know now, it is reasonable to expect a certain natural phenomenon to have a natural explanation. But, when answering the question of why we exist at all, it's important to realize that we're not dealing with a simple natural phenomenon.
 
-### Limitations of science 
+## Limitations of science 
 The second is the assumption that we can only know what science reveals to us. If it can’t be proven by science, then we can’t believe in it. Science is great for gaining understanding of the world around us, but it is limited in its scope. For instance, science cannot tell us what is moral. It can give information such as how pain receptors work in humans to indicate that they feel pain. But this isn’t the same as saying that we shouldn’t inflict harm on another person. That decision is up to us.
 
-### Conclusion
+## Conclusion
 This is why earlier I said one must be humble and courageous. Humble in that we recognize that we don't have it all figured out and courageous in that we strive for honesty even when the consequences of a conclusion are not what we'd like. This type of attitude allows us to be truly skeptical and intellectually honest with ourselves. Will you have this attitude?

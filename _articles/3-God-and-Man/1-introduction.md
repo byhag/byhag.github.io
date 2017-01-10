@@ -12,7 +12,7 @@ Having read the first branch, one might feel like he was convinced of the God of
  
 Additionally, this branch takes a look into two of the greatest questions ever posed, “Why am I here?” and “Who am I?”. Our identity and purpose are closely related to the question of God’s existence. If God exists, our identity and purpose is certainly defined in one way. If He does not, however, our identity and purpose are two different things all together. This branch will examine this connection and how God relates to man.
  
-### Branch Articles:
+## Branch Articles:
 {% for article in site.articles %}
 {% if article.module == "God and Man" %}
 {% unless article.title == page.title %}

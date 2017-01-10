@@ -14,7 +14,7 @@ If you have agreed with the ideas up until this point, you’d understand that m
  
 God intended this new relationship for all men, and He offers it freely. However, with that free offering, we have the propensity to reject it. How do we accept this gift? Only those who are willing will reap its eternal benefits. This branch deals with how it is that man accepts this new relationship.
  
-### Branch Articles:
+## Branch Articles:
 {% for article in site.articles %}
 {% if article.module == "Salvation" %}
 {% unless article.title == page.title %}

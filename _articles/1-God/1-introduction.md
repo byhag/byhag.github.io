@@ -12,7 +12,7 @@ With so much uncertainty with simple things in life, the question, “Is there a
  
 Before getting into the articles, it’s important to address three things that keep people from being convinced by arguments for God. The first is the belief that nothing exists outside of the natural. For obvious reasons, if it’s already assumed that nothing supernatural exists, it would be very difficult to convince otherwise. The second is the assumption that we can only know what science reveals to us. The idea goes, “If it can’t be tested, then we can’t believe in it.” Science is great for gaining understanding of the world around us, but it is limited in its scope. For instance, science cannot tell us what is moral, what is logical, what is historical, or what you experience. Finally, if you don’t want to believe God exists, you won’t. He allows you to do that. These articles are challenging. They may ask you to question your very worldview, but the quest for truth is an arduous climb. One we all hope to summit.
 
-### Branch Articles:
+## Branch Articles:
 {% for article in site.articles %}
 {% if article.module == "God" %}
 {% unless article.title == page.title %}

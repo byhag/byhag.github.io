@@ -13,7 +13,7 @@ All of this would have seemed bizarre – even grisly – to the people of the t
  
 And yet Christians believe that Jesus of Nazareth, the very Son of God, willingly submitted to this horrific death. Why? To answer this question, we need to go back to the beginning.
  
-### Sin Separates
+## Sin Separates
 The Bible begins by telling us that God created the universe, and at the end of His creation, made human beings “in His own image” (Genesis 1:27). In the ancient world, kings would set up statues or likenesses of themselves to remind their subjects of their authority. The great King made human beings in His likeness to “have dominion” over the created order, to represent God’s sovereignty (Genesis 1:28).
  
 But that’s not what happened. Instead of submitting to God’s authority, humanity rebelled. That act of defiance was more than a simple rules violation. It ruined a relationship. God had given Adam and Eve everything they needed in the paradise of Eden, and He dwelled with them in warm fellowship, but when Adam and Even sinned, their immediate response was to hide themselves from God’s presence. The result of this rejection of God was expulsion from His presence, eviction from the Garden of Eden.
@@ -22,7 +22,7 @@ The Bible calls this sentence “death.” The Lord’s warning about the forbid
  
 The story of Adam and Eve is the story of all of us. We all choose to do things our way rather than God’s. But what this really means is that we love something more than God. We have created a rift in that most important of all relationships, and the consequence is death.
 
-### Love Reunites
+## Love Reunites
 Let’s imagine a little boy named Josh. [2] He loves to play soccer, and constantly practices dribbling. His mother has a beautiful flower garden, and has told Josh that he can dribble anywhere he wants, but he must stay away from the flowers. One day though, in his imagination, Josh is about to win the World Cup, and in order to make the winning shot he tramples straight through his mother’s flowers.
  
 Think of the problem Josh has created. On the surface level, he has destroyed some plants. At a deeper level, he has disobeyed his mom. Drilling down further, he has demonstrated that he loves what he wants to do more than what his mother loves. He has in fact created distance between himself and his mother, because his lack of care for his mother’s flowers really reflects a lack of regard for his mother.
@@ -41,12 +41,12 @@ The apostle Paul expresses the purpose of the death of Jesus like this:
  
 > But God shows his love for us in that while we were still sinners, Christ died for us.  Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God. For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life. (Romans 5:8-10)
  
-### Conclusion
+## Conclusion
  
 Why did Jesus die? To reconcile us to God by His perfect life and obedient death. And why was God willing to do this for us? Because He loves us. And so the answer to the question, “Why did Jesus die,” is very simple.
  
 Love.
 
-### References
+## References
 1. Pro Rabirio 16.
 2. I am indebted to philosopher Eleonore Stump for this illustration (found in “Atonement According to Aquinas” in Oxford Readings in Philosophical Theology: Volume 1. Oxford: Oxford University Press, 2009).

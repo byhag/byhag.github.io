@@ -12,7 +12,7 @@ If the evidence of God’s existence was all that we had, one might be very puzz
  
 Anyone who has talked with Christians has experienced a common foundation from a book called the Bible which establishes ideas and presents what they call “truth”. This section walks through the evidence of why Christians call the Bible “truth” today.
 
-### Branch Articles
+## Branch Articles
 {% for article in site.articles %}
 {% if article.module == "Truth" %}
 {% unless article.title == page.title %}
