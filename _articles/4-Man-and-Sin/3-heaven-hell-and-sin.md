@@ -8,7 +8,8 @@ permalink: /Man-and-Sin/heaven-hell-and-sin
 ---
 
 In the previous article, we talked about the idea of sin. What is the big deal? In discussing the consequences of sin, we will also answer the ever important question of what happens after death. Fortunately, God provides us very straightforward answers to these questions.
-​
+​ 
+
 ## Separation and Death
 The Bible has made it very clear the consequences of sin. “Do not be deceived: God cannot be mocked. A man reaps what he sows” (Galatians 6:7). The next verse then describes those who indulge in sinful behavior: “The one who sows to please his sinful nature, from that nature will reap destruction” (Galatians 6:8). Though sin may promise great things, it only gives shame and death. If we take an honest look at our lives and history, we can see this. When will we see that our way (sin) is only leading to death (Romans 6:21)?
  

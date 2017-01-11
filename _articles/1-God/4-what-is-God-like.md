@@ -8,7 +8,8 @@ permalink: /God/what-is-God-like-part1
 ---
 
 The preceding arguments do not prove a God of any particular religion, including the God of Christianity. At best, our observations so far support evidence of a very unique Mind or a Cause behind the universe and our conscience. However, let us summarize what the preceding arguments can tell us about this being. For the sake of simplicity, let us call this supernatural entity “God”.
-​
+​ 
+
 ## God is outside of physical reality
 When establishing the necessity for an uncaused or first cause, we saw that God is different than anything else because He always existed. Given this characteristic of God’s nature, God cannot exist inside our universe because everything in our universe has a cause to its existence.
  

@@ -26,6 +26,7 @@ There can be no doubt that, as “god of this world” (2 Corinthians 4:4), Sata
  
 His power, then, is a power of persuasion and perversion. He perverts the Word of God (Genesis 3:1-4). He promulgates false doctrine (1 Timothy 4:1-3). He blinds men to the truth (2 Corinthians 4:4). He steals the Word of God from human hearts (Matthew 13:19). He lays snares for men (2 Timothy 2:26; 1 Timothy 3:7). He tempts (Matthew 4:1; Ephesians 6:11). He afflicts (Job 2:7; 2 Corinthians 12:7). He deceives (Revelation 12:9; Revelation 20:8-10). He undermines the sanctity of the home, even when a man or woman might be at their weakest (1 Corinthians 7:3-5). He hinders the work of God’s servants (1 Thessalonians 2:18). And he even makes accusations against God’s children before Heaven’s throne (Job 1:6-11; Job 2:3-6; Zechariah 3:1-4; Revelation 12:9-10).
 ​
+
 ## His Prospects
 What hope could we have against such a formidable foe? Fortunately, God has not left us defenseless. In Ephesians 6:11, Paul admonished Christians to “put on the whole armor of God that you may be able to stand against the schemes of the devil.” It is more than adequate to overcome the enemy, but not unless we are willing to put it on. Consider David and Goliath - a story with which many are familiar. We are David and Satan is our Goliath. David triumphed not by his own strength or armor but by his faith in the Lord. This is just like our armor that Paul describes. If we are willing to wear it, we can triumph.
  

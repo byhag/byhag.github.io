@@ -9,9 +9,11 @@ permalink: /Salvation/how-can-I-be-saved
 
 If you have been reading and have been convicted, realizing that you are a sinner, that is, someone who has committed sin against God, then you know that your sin makes you infinitely separated from God, because God, by nature, is infinitely separately from sin and evil. If you believe this, then you know that you are in a pretty tight spot and need help. The questions then is, “How can I be saved?”
 ​
+
 ## Through Jesus
 The answer is simple. It is through Jesus. He is the only way to God (John 14:6). He is the only one who reveals God to mankind (Matthew 11:27). Christ, both God and man, is only man who can connect us to God because He is the only one who could make the payment for our sins (1 Peter 2:24).
-​
+ 
+
 ## Through faith
 However, this salvation is not automatically given to all of mankind once Christ died. Jesus said that only a few “find” salvation (Matthew 7:13-14). On another occasion, he said that “Many are called, but few are chosen” (Matthew 22:14).
  
