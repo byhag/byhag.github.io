@@ -1,12 +1,12 @@
 <head>
   <link rel='icon' href='/images/randr-favicon.png' type='image/x-icon'/>
-  <!--<link rel="stylesheet" href="/css/style.css"/>-->
-  <link rel="stylesheet" href="/font-awesome-4.7.0/css/font-awesome.min.css"/>
+
+  <base href="{{site.url}}">
+  <link rel="stylesheet" type="text/css" href="/font-awesome-4.7.0/css/font-awesome.min.css"/>
 
   <!-- fonts families -->
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Open+Sans|Open+Sans:bold"/>
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Anton"/>
-  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Roboto+Slab:bold"/>
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family={{site.body-font}}|{{site.body-font}}:bold"/>
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family={{site.title-font}}|{{site.title-font}}:bold"/>
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -24,8 +24,10 @@
   <meta property="og:title" content="{{page.title}} | {{page.subtitle}}" />
   <meta property="og:type" content="article" />
   <meta property="og:url" content="{{page.url}}" />
-  <meta property="og:image" content="/images/rrlogo-preview.png" />
+  <meta property="og:image" content="{{site.url}}/images/rrlogo-preview.png" />
   <meta property="og:image:width" content="1200" />
+
+  {% seo title=false %}
 
   <link href="/css/site.css" rel="stylesheet">
   <link href="/css/simple-sidebar.css" rel="stylesheet">

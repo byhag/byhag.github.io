@@ -7,6 +7,8 @@ $faded-gray: #444;
 $rr-green-light: #81D135;
 $rr-green-dark: #437414;
 $rr-brown: #8A572E;
+$title-font: "{{site.title-font}}";
+$body-font: "{{site.body-font}}";
 
 // Bootstrap overrides
 .navbar-static-top {
@@ -139,7 +141,7 @@ $rr-brown: #8A572E;
 .modal-header {
     background-color: #444;
     color: #eee;
-    font-family: "Roboto Slab";
+    font-family: $title-font;
 }
 
 .modal-footer {
@@ -161,31 +163,20 @@ $rr-brown: #8A572E;
     }
 }
 
-html {
-    @media (max-width: $screen-phone) {
-        $font-size-base: 11pt;
-    }
+body {
+    font-family: $body-font !important;
 }
 
 blockquote {
-    font-family: "Roboto Slab";
+    font-family: $title-font;
 }
 
 ol {
     word-wrap: break-word;
 }
 
-header {
-    background-attachment: fixed;
-    background-size: cover;
-    box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
-    @media (max-width: $screen-sm-max) {
-        background-attachment: scroll;
-    }
-}
-
 h1, h2, h3 {
-    font-family: "Roboto Slab";
+    font-family: $title-font;
 }
 
 .table {
@@ -552,7 +543,7 @@ textarea.form-control {
 }
 
 .tree-branches {
-    font-family: "Roboto Slab";
+    font-family: $title-font;
     position: absolute;
     padding-top: 60px;
     padding-left: 0;

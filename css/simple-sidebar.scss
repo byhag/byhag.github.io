@@ -14,6 +14,8 @@
  }
 
 $height-mobile: 100vh;
+$body-font: "{{site.body-font}}";
+$title-font: "{{site.title-font}}";
 
 /* Toggle Styles */
 #wrapper {
@@ -30,7 +32,7 @@ $height-mobile: 100vh;
 
 #sidebar-wrapper {
     z-index: 1000;
-    font-family: "Roboto Slab";
+    font-family: $title-font;
     position: fixed;
     left: 0;
     top: $height-mobile;
