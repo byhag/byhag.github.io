@@ -13,7 +13,7 @@ Conceivably, if a so-called “prophecy” is not due to one of the first four r
  
 This page is devoted to prophecies centered around Jesus, or said to be fulfilled in Jesus. Considering that dozens of prophecies are pertaining to Jesus, only a select few are chosen for discussion here.
  
-All of these prophecies can be easily be verified to have been penned before the birth of Jesus. We can know this with certainty because the Septuagint, the Greek translation of the Old Testament, was penned around 250 BC by 72 Jewish translators and contains all of the prophecies concerning Jesus [1].
+All of these prophecies can be easily be verified to have been penned before the birth of Jesus. We can know this with certainty because the Septuagint, the Greek translation of the Old Testament, was penned around 250 BC by 72 Jewish translators and contains all of the prophecies concerning Jesus [[1]({{page.permalink}}/#References)]({{page.permalink}}/#References).
  
 ## The Bethlehem prophecy
 In Micah 5:2, written around 800 BC, it says, “But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days.” In Matthew 2:1, it is written, “Jesus was born in Bethlehem of Judea”.
@@ -43,5 +43,6 @@ Look at these prophecies and see. Could they be explained by natural means?
  
 The evidence points to someone that holds both the past and future in His hand - God. He gave us His Word. Included in his Word is evidence, namely prophecy, that points back to Him, and to His Son to whom the prophecies pertain.
 ​
-## References
+
+## References <a id="References"></a>
 1. [https://www.britannica.com/topic/Septuagint](https://www.britannica.com/topic/Septuagint)
