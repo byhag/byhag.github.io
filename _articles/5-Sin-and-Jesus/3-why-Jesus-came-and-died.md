@@ -9,7 +9,7 @@ permalink: /Sin-and-Jesus/why-Jesus-came-and-died
 
 The universal symbol for Christianity is the cross. Church buildings are adorned with crosses. Necklaces are earrings are fashioned into crosses. Some people even tattoo their bodies with crosses.
  
-All of this would have seemed bizarre – even grisly – to the people of the time of the New Testament. For them, the cross was not a decoration, but an obscenity. The Roman statesmen Cicero wrote, “The very word cross should be removed not only from the person of a Roman citizen, but from his thoughts, his eyes, his ears . . .The very mention of these things is unworthy of a Roman citizen.” [1]({{page.permalink}}/#References) The cross was the means of execution for criminals of the lowest class. Designed to torture its victims and terrify the populace, crucifixion was brutal and degrading.
+All of this would have seemed bizarre – even grisly – to the people of the time of the New Testament. For them, the cross was not a decoration, but an obscenity. The Roman statesmen Cicero wrote, “The very word cross should be removed not only from the person of a Roman citizen, but from his thoughts, his eyes, his ears . . .The very mention of these things is unworthy of a Roman citizen.” [[1]]({{page.permalink}}/#References) The cross was the means of execution for criminals of the lowest class. Designed to torture its victims and terrify the populace, crucifixion was brutal and degrading.
  
 And yet Christians believe that Jesus of Nazareth, the very Son of God, willingly submitted to this horrific death. Why? To answer this question, we need to go back to the beginning.
  
@@ -23,7 +23,7 @@ The Bible calls this sentence “death.” The Lord’s warning about the forbid
 The story of Adam and Eve is the story of all of us. We all choose to do things our way rather than God’s. But what this really means is that we love something more than God. We have created a rift in that most important of all relationships, and the consequence is death.
 
 ## Love Reunites
-Let’s imagine a little boy named Josh. [2]({{page.permalink}}/#References) He loves to play soccer, and constantly practices dribbling. His mother has a beautiful flower garden, and has told Josh that he can dribble anywhere he wants, but he must stay away from the flowers. One day though, in his imagination, Josh is about to win the World Cup, and in order to make the winning shot he tramples straight through his mother’s flowers.
+Let’s imagine a little boy named Josh. [[2]]({{page.permalink}}/#References) He loves to play soccer, and constantly practices dribbling. His mother has a beautiful flower garden, and has told Josh that he can dribble anywhere he wants, but he must stay away from the flowers. One day though, in his imagination, Josh is about to win the World Cup, and in order to make the winning shot he tramples straight through his mother’s flowers.
  
 Think of the problem Josh has created. On the surface level, he has destroyed some plants. At a deeper level, he has disobeyed his mom. Drilling down further, he has demonstrated that he loves what he wants to do more than what his mother loves. He has in fact created distance between himself and his mother, because his lack of care for his mother’s flowers really reflects a lack of regard for his mother.
  
