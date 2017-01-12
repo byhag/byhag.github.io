@@ -7,8 +7,8 @@ $faded-gray: #444;
 $rr-green-light: #81D135;
 $rr-green-dark: #437414;
 $rr-brown: #8A572E;
-$byhag-blue: #284B96;
-$byhag-dark: #0E1A35;
+$byhag-blue: #385Ba6;
+$byhag-dark: #333;
 $title-font: "{{site.title-font}}";
 $body-font: "{{site.body-font}}";
 
@@ -23,10 +23,14 @@ $body-font: "{{site.body-font}}";
         &:focus {
             background-color: $byhag-blue !important;
             color: #eee !important;
-            .neck, .body {
-                fill: $byhag-dark;
+             
+            .body {
+                fill: #eee;
             }
         }
+    }
+    .active > a {
+        background-color: $byhag-blue !important;
     }
 }
 
@@ -56,7 +60,10 @@ $body-font: "{{site.body-font}}";
     svg {
         width: 25px;
         height: 45px;
-        .neck, .body {
+        .neck {
+            fill: #777;
+        }
+        .body {
             fill: $byhag-blue;
         }
     }
@@ -143,7 +150,10 @@ textarea.form-control {
        width: 50px;
        height: 150px; 
        margin-bottom: -50px;
-       .neck, .body {
+       .neck {
+           fill: #777;
+       }
+       .body {
            fill: $byhag-blue;
        }
     }
@@ -348,10 +358,6 @@ textarea.form-control {
             padding-bottom: 5px;
         }
     }
-}
-
-.active {
-    background-color: $rr-green-dark;
 }
 
 .nav-search {
