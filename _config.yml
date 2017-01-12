@@ -25,13 +25,17 @@ url: "https://byhag.github.io" # the base hostname & protocol for your site, e.g
 
 # formatted for scss
 body-font: Open Sans
-title-font: Roboto Slab
+title-font: Shrikhand
 
 # Build settings
+exclude: [README.md]
 markdown: kramdown
 gems:
   - jekyll-feed
   - jekyll-sitemap
+
+# avoid conflict with other local jekyll sites
+port: 4001
 
 exclude:
   - Gemfile

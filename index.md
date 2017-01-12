@@ -1,18 +1,11 @@
 ---
 layout: home
-title: Welcome to rootedreasoning!
-subtitle: Let's grow together
-bgimage: autumn.jpg
+title: byhag
+subtitle: Hi, there
+bgimage: fox.jpg
 permalink: /
 ---
 
-## A little about us...
-**rootedreasoning.com** is a roadmap to many of life's big questions. We are dedicated to understanding the truth that is rooted in the nature and revealed wisdom of God, and providing our help and answers through that truth.
+## Who am I?
+First and foremost, I am a follower of Christ. I care more than I can express and less than I should about God and my fellow brothers. I'm currently a student on my last semester at Texas A&M University studying Computer Science with a minor in Mathematics.  
  
-_Let's grow together._
-
-## Getting started...
-
-The TruthTree connects related articles that discuss the big questions that individuals may have, starting with perhaps the biggest question of all - "Is there a God?" - and growing upwards.
- 
-_Let's go on a journey together._
