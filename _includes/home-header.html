@@ -1,34 +1,13 @@
 <header>
     
-    <div class="home-header-background" style="background-image: linear-gradient(rgba(80,80,80,0.7), rgba(80,80,80,0.7)), url(/images/{{page.bgimage}})"></div>
+    <div class="home-header-background" style="background-image: linear-gradient(rgba(50,50,50,0.7), rgba(50,50,50,0.7)), url(/images/{{page.bgimage}})"></div>
     <div class="home-header">
         <span class="logo">
-          <svg class="b" viewBox="0 0 303 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-              <g id="b" transform="matrix(0.297845,0,0,1.13684,0.207176,1.15816)">
-                  <rect class="background" x="-0.696" y="-1.019" width="1015.2" height="495.014" style="fill:none;"/>
-                  <g id="neck" transform="matrix(3.39349,0,0,0.609893,0.226427,10.118)">
-                      <rect class="neck" x="19.516" y="39.431" width="95.97" height="246.628"/>
-                  </g>
-                  <g id="body" transform="matrix(3.35745,0,0,0.87963,-0.695583,-1.01875)">
-                      <path class="body" d="M283.043,210.02L283.043,445.02L20.043,445.02L20.043,365.359L209.154,365.359L209.154,286L20.043,286L20.043,210.02L283.043,210.02Z"/>
-                  </g>
-              </g>
-          </svg>
-          <svg class="h" viewBox="0 0 303 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
-              <g id="h" transform="matrix(0.297845,0,0,1.13684,0.207176,1.15816)">
-                  <rect x="-0.696" y="-1.019" width="1015.2" height="495.014" style="fill:none;"/>
-                  <g id="neck" transform="matrix(3.39349,0,0,0.609893,0.226427,10.118)">
-                      <rect class="neck" x="19.516" y="39.431" width="95.97" height="246.628"/>
-                  </g>
-                  <g id="body" transform="matrix(3.35745,0,0,0.87963,-0.695583,-1.01875)">
-                      <path class="body" d="M283.043,445.02L209.154,445.02L209.154,286L116.437,286L116.437,445.02L20.043,445.02L20.043,210.02L283.043,210.02L283.043,445.02Z"/>
-                  </g>
-              </g>
-          </svg>
+          {% include bhlogo.html %}
         </span>
           <h1>{{page.title}}</h1>
-        <div class="down-arrow">
+        <button class="btn btn-primary down-arrow">
             <i class="fa fa-2x fa-chevron-down"></i>
-        </div>
+        </button>
     </div>
 </header>

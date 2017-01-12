@@ -32,6 +32,18 @@ $body-font: "{{site.body-font}}";
     .active > a {
         background-color: $byhag-blue !important;
     }
+
+    .navbar-toggle {
+        margin: 10px 20px;
+        height: 50px;
+        width: 50px;
+        .fa-bars {
+            color: white;
+        }
+        &:focus > .fa-bars{
+            color: #777;
+        }
+    }
 }
 
 .btn {
@@ -46,7 +58,7 @@ $body-font: "{{site.body-font}}";
 }
 
 .navbar-brand {
-    padding: 15px $navbar-padding-horizontal 0px $navbar-padding-horizontal;
+    padding: 0px $navbar-padding-horizontal;
     display: block;
     > img {
         float:left;
@@ -58,8 +70,8 @@ $body-font: "{{site.body-font}}";
         padding-right: 20px;
     }
     svg {
-        width: 25px;
-        height: 45px;
+        width: 70px;
+        height: 70px;
         .neck {
             fill: #777;
         }
@@ -147,9 +159,9 @@ textarea.form-control {
     }
 
     svg {
-       width: 50px;
+       width: 150px;
        height: 150px; 
-       margin-bottom: -50px;
+       margin-bottom: -30px;
        .neck {
            fill: #777;
        }
@@ -306,10 +318,10 @@ textarea.form-control {
     text-align: center;
     padding: 3px 3px 1px;
     border-radius: 3px;
-    background-color: $byhag-dark;
+    background-color: $byhag-blue;
     position: relative;
-    left: 50%;
-    transform: translateX(-50%);
+    //left: 50%;
+    //transform: translateX(-50%);
     top: 30vh;
 }
 

@@ -5,6 +5,12 @@ $(document).ready( function() {
     $('.sharing').hide();
     $('.select-menu').hide();
 
+    $(".down-arrow").click(function() {
+        $('html, body').animate({
+            scrollTop: $("#home-title").offset().top
+        }, 1000);
+    });
+
     $("#menu-toggle").click(function(e) {
         e.preventDefault();
         $("#wrapper").toggleClass("toggled");
