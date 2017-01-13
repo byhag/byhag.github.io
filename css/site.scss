@@ -16,7 +16,7 @@ $body-font: "{{site.body-font}}";
 .navbar-fixed-top {
     background-color: $byhag-dark;
     
-    border-bottom: none;
+    border-bottom: 5px solid $byhag-blue;
 
     a {
         &:hover,
@@ -72,12 +72,35 @@ $body-font: "{{site.body-font}}";
     svg {
         width: 70px;
         height: 70px;
+        .background {
+            fill: none;
+        }
         .neck {
             fill: #777;
+        }
+        .inner {
+            fill: none;
         }
         .body {
             fill: $byhag-blue;
         }
+    }
+}
+
+.header-background {
+    height: 250px;
+    width: 100%;
+    background-color: $byhag-blue;
+    color: #eee;
+    padding-top: 20px;
+    h1 {
+        text-align: center;
+    }
+    .page-header {
+        padding-top: 15px;
+        background-color: #777;
+        border-bottom: 2px solid #eee;
+        border-top: 2px solid #eee;
     }
 }
 
@@ -162,8 +185,14 @@ textarea.form-control {
        width: 150px;
        height: 150px; 
        margin-bottom: -30px;
+       .background {
+           fill: none;
+       }
        .neck {
            fill: #777;
+       }
+       .inner {
+           fill: none;
        }
        .body {
            fill: $byhag-blue;
@@ -198,6 +227,9 @@ textarea.form-control {
     position: fixed;
     width: 100%;
     height: 100vh;
+    @media (max-width: $screen-xs-max) and (orientation: portrait) {
+        background-position-x: -350px;
+    }
 }
 
 .article-header {
@@ -313,12 +345,15 @@ textarea.form-control {
 }
 
 .down-arrow {
+    &:focus {
+        outline: none;
+    }
     color: #eee;
     width: 50px;
     text-align: center;
     padding: 3px 3px 1px;
     border-radius: 3px;
-    background-color: $byhag-blue;
+    background-color: $byhag-dark;
     position: relative;
     //left: 50%;
     //transform: translateX(-50%);

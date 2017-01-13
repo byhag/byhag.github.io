@@ -5,13 +5,14 @@ layout: default
 <div>
 
   {% include home-header.html %}
-  
+  <div class="header-background">
+    <div class="page-header">
+      <h1 id="home-title">{{page.subtitle}}</h1>
+    </div>
+  </div>
   <main class="content">
     <div class="col-xs-12">
       <div class="article">
-        <div class="page-header">
-          <h1 id="home-title">{{page.subtitle}}</h1>
-        </div>
         <br>
         {{content}}
       </div>
