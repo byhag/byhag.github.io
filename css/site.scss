@@ -166,20 +166,6 @@ textarea.form-control {
 
 // ----
 
-.profile-image {
-    padding-top: 200px !important;
-    color: #eee;
-    overflow: hidden;
-    box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
-    background-image: linear-gradient(rgba(50,50,50,0.7),rgba(50,50,50,0.7)), url("/images/profile.jpg");
-    background-attachment: fixed;
-    background-size: cover;
-    background-position-y: -300px;
-    .page-header {
-        border-color: #eee;
-    }
-}
-
 .home-header, .resume-header {
     text-align: center;
 	padding: 30vh 15% 0 15%;
@@ -231,9 +217,6 @@ textarea.form-control {
     position: fixed;
     width: 100%;
     height: 100vh;
-    @media (max-width: $screen-xs-max) and (orientation: portrait) {
-        background-position-x: -350px;
-    }
 }
 
 .resume-header-background {
@@ -245,6 +228,19 @@ textarea.form-control {
     width: 100%;
     height: 100vh;
 
+}
+
+.error-header-background {
+    background-size: cover;
+    box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
+    z-index: -10;
+    position: fixed;
+    background-position: center;
+    width: 100%;
+    height: 100vh;
+    @media (max-width: $screen-xs-max) and (orientation: portrait) {
+        // background-position-x: -350px;
+    }
 }
 
 .article-header {
@@ -268,6 +264,42 @@ textarea.form-control {
     width: 100%;
     height: 100vh;
     top: -100px;
+}
+
+.profile-image {
+    // padding-top: 200px !important;
+    z-index: -10;
+    //top: 0;
+    height: 90vh;
+    width: 100%;
+    color: #eee;
+    //overflow: hidden;
+    box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
+    background-image: linear-gradient(rgba(50,50,50,0.7),rgba(50,50,50,0.7)), url("/images/profile.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-position-y: -25vh;
+    .page-header {
+        border-color: #eee;
+    }
+}
+
+.home {
+    overflow: scroll;
+    .content {
+        padding: 0;
+        background: none;
+    }
+    .article {
+        padding: 0 20vw;
+        color: #eee;
+        @media (max-width: $screen-xs-max) {
+            padding: 0 20px;
+        }
+        .page-header {
+            border-color: #eee;
+        }
+    }
 }
 
 .content {
