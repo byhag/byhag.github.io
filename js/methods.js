@@ -5,6 +5,14 @@ $(document).ready( function() {
     $('.sharing').hide();
     $('.select-menu').hide();
 
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > this.screen.height) {
+            $('.home-header-background').hide();
+        } else {
+            $('.home-header-background').show();
+        }
+    })
+
     $(".down-arrow").click(function() {
         $('html, body').animate({
             scrollTop: $(".article").offset().top
