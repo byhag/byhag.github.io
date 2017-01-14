@@ -279,6 +279,9 @@ textarea.form-control {
     background-attachment: fixed;
     background-position: center;
     background-position-y: -25vh;
+    @media (max-width: $screen-xs-max) {
+        background-attachment: scroll;
+    }
     .page-header {
         border-color: #eee;
     }
