@@ -176,6 +176,9 @@ textarea.form-control {
         //padding-top: 50vh;
         padding-bottom: 0;
     }
+    @media (max-width: $screen-xs-max) and (orientation: landscape) {
+        padding-top: 20vh;
+    }
 
     &.error {
         text-align: left;
@@ -415,10 +418,10 @@ textarea.form-control {
     padding: 3px 3px 1px;
     border-radius: 3px;
     background-color: $byhag-dark;
-    position: relative;
-    //left: 50%;
-    //transform: translateX(-50%);
-    top: 30vh;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 80vh;
 }
 
 .rtBibleRef {
