@@ -2,7 +2,7 @@
 layout: home
 title: byhag
 subtitle: Hi, there
-bgimage: hiking.jpg
+bgimage: sky.jpg
 permalink: /
 ---
 

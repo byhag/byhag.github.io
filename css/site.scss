@@ -269,6 +269,12 @@ textarea.form-control {
     top: -100px;
 }
 
+.logo-back {
+    border-radius: 100%;
+    background: $byhag-dark;
+    width: 200px;
+}
+
 .profile-image {
     // padding-top: 200px !important;
     z-index: -10;
@@ -278,7 +284,7 @@ textarea.form-control {
     color: #eee;
     //overflow: hidden;
     box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1) inset;
-    background-image: linear-gradient(rgba(50,50,50,0.7),rgba(50,50,50,0.7)), url("/images/profile.jpg");
+    background-image: linear-gradient(rgba(50,50,50,0.7),rgba(50,50,50,0.7)), url("/images/fox-2380289_1920.jpg");
     background-attachment: fixed;
     background-position: center;
     background-position-y: -25vh;
@@ -354,6 +360,44 @@ textarea.form-control {
                 margin-bottom: 0;
             }
         }
+    }
+}
+
+.tght {
+    text-align: right;
+    .page-header {
+        padding-right: 50px;
+    }
+}
+
+.thought {
+    text-align: center;
+    overflow: hidden;
+    border-radius: 5px;
+    padding: 0;
+    margin: 30px;
+    background-color: #333;
+    color: #eee;
+    box-shadow: 0px 0px 20px 10px rgba(0,0,0,0.1);
+    &:hover {
+        font-family: $title-font;
+        color: #eee;
+        text-decoration: none;
+        background-color: $byhag-blue;
+    }
+    > .thought-img {
+        overflow: hidden;
+        height: 150px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        width: 100%;
+        > img {
+            width: 110%;
+            opacity: 0.8;
+        }
+    }
+    > .thought-btn {
+        padding: 20px 0;
     }
 }
 
