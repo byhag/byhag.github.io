@@ -287,7 +287,6 @@ textarea.form-control {
     background-image: linear-gradient(rgba(50,50,50,0.7),rgba(50,50,50,0.7)), url("/images/fox-2380289_1920.jpg");
     background-attachment: fixed;
     background-position: center;
-    background-position-y: -25vh;
     @media (max-width: $screen-xs-max) {
         background-attachment: scroll;
     }
@@ -297,7 +296,7 @@ textarea.form-control {
 }
 
 .home {
-    overflow: scroll;
+    overflow: hidden;
     .content {
         padding: 0;
         background: none;
